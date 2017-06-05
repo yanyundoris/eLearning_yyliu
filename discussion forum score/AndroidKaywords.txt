@@ -1,0 +1,13 @@
+emulator
+haxm
+greetfriend
+application
+server
+view
+button
+acceleration
+activity
+configuration
+version
+manager
+mahine
