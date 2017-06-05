@@ -1,0 +1,3598 @@
+57427df9e13629052900016a
+m3a
+BC I xbckxbckbec
+f CB VCC fr dd
+0
+0
+0
+5720bbcec83713054200031f
+m3a
+Module 03 Graded Problem Task 1
+in the answer it is mentioned that x has initial value of "0". Where does that comes from?
+0
+0
+1
+571d4ae2c83713051e000187
+m3a
+Module 03 Graded Problem Task 3A
+Please assess this problem, Module 03 Graded Problem Task 3A, its still under process since 4days .No evaluation is being done yet.![module 3 task 3a][1]
+0
+0
+1
+571cb871d11155056200013e
+m2c
+CourseGrade program is not being compiled
+Can anyone help?I try to compile the class but it shows syntax errors
+0
+0
+1
+571b70add1115505870000cc
+m4a
+Lab 4 Task 2
+Got the following feedback but unsure what it means? > Test method draw of rock with x = 0, y = 0, rotation = 0 > Failed because of the following reasons: > the Y position of image (480) is incorrect.
+0
+0
+5
+571b53a07e622b05670000cd
+m3c
+INTRODUCTON TO JAVA PROGRAMMING- PART1 BY HKUST--Module 03 Graded Problem Task 3A and  Module 05 Graded Problem Task 1
+I have submitted the answer to Module 03 Graded Problem Task 3A problem but it's still processing .I tried submitting due to which I reached the maximum attempts to submit answer. As per given instructuions I also refreshed the page but the processing is still going on endlessly.The same problem exists for Module 05 Graded Problem Task 1.Even the same problem exist with each n every solution to the problem that i'm submitting since two days.Please assess and grade my solution and get me out of this problem.
+0
+0
+2
+571b4368d1115505970000e0
+m5a
+PowerCalculator: what is powerN(0,0) ?
+n⁰ is generally 1 ? Except undefined for 0⁰. But as as negative powers shall return 1, I suppose it should return 1 for 0⁰, as well as for the other zero powers.
+0
+0
+1
+5719f70dc83713052a000045
+m4a
+Single quotes or not in answer to Module 04 Graded Problem Task 4
+I see no way to determine if the answer to Task 4 is supposed to be a single letter, or a single letter enclosed in single quotes. For those who wonder - the correct answers are single letters   single quotes.
+0
+0
+1
+571957227e622b0551000004
+m5a
+HTTP status code [503] counts as one submission
+I tried to submit my program code for Lab 5 Task 2 but got the following response: Unable to deliver your submission to grader (Reason: unexpected HTTP status code [503]). Please try again later.  You have used 2 of 5 submissions. I have wasted 2 attempts trying to submit. I see in the discussion area that others are having the same issue. Please help.
+0
+0
+1
+571911dc1dfe59053300044e
+m3a
+Loading next to each other
+Hi, I am slightly stuck as to how to add to images to the canvas. I am only ever able to load one at a time. My canvas is deffinetly the right size? Any help?
+0
+0
+4
+5718af6a1dfe59052b0003cf
+m3c
+Car2 access modifiers
+In the Car2 [video][1] the declaration is `private String owner`. In the [download][2] it is just `String owner` with default access. The default access modifier is `package-private`, which is more permissive than `private` ?
+0
+0
+1
+571763d4db70a90560000328
+m2a
+Lab 2 Task 3
+I have checked this over and over again... where am I going wrong?
+0
+0
+1
+57164e35c997f9058e000269
+m2a
+Facing difficulties
+Why is this wrong? I haven't be able to solved it sicne long time.
+0
+0
+1
+5715182cc997f905c40001e6
+m2a
+Lab 02 Task 3
+So here is my code but I am confused as to why this doesn't work. When I run the program, the output is just NaN. Could anyone help me please?
+0
+0
+6
+5714c3991dfe5905470001b5
+m2a
+Module 2 Graded Problem Task 3
+These graded problems should be given corresponding correct answers after a student has attempted it and failed as the case may be. So as to facilitate learning by example and corrections. This just my correcteions.
+0
+0
+1
+5713cb76db70a905c2000151
+m4a
+Lab 04 Graded Task 2 Previous Unit
+Test method draw of rock with x = 0, y = 0, rotation = 0 Passed because of the following reasons: the loaded image is rock the X position of image is correct. the Y position of image is correct. the rotation of image is correct. Test method draw of paper with x = 16, y = 21, rotation = 360 Failed because of the following reasons: the X position of image (0) is incorrect. the Y position of image (0) is incorrect. the rotation of image (0) is incorrect. Test method draw of scissors with x = -81, y = -49, rotation = 270 i'm getting this error. Please help what am i missing??
+0
+0
+1
+57129bb91dfe5905550000f6
+m3a
+import comp 102x.IO
+how to use import comp102x.IO in my program ???
+0
+0
+1
+57121269db70a905420000e0
+m5a
+Module 05 Graded Problem Task 1
+I don't know how to do thiś task. I have already the if statement, but I don't know how to do the while loop. I have no idea. Please give me hand.
+0
+0
+1
+571198d9db70a905390000b0
+m5a
+SWAP METHOD
+I need help with the swap method please anyone .
+0
+0
+1
+5710c883c997f905be000060
+m5a
+Bug in Matching Game?
+The game does not check if your second pick is the same as the first...so one can win every time by entering the same card twice...Cheers
+0
+0
+3
+5710948e1dfe59053d000053
+m3a
+Lab 3 Graded task 01
+The dimension of Canvas is incorrect. It should follows the dimension of image being shown. how to solve this ?
+1
+0
+3
+57108092c997f9059d00003d
+m1a
+Module 1 Graded Problem 2
+Could someone explain the solution to me? I did not fully understand the given explanation.
+0
+0
+1
+570ecb9d6fcfa504fd00040b
+m4a
+Lab 04 Graded Task 2
+but I still get some errors: Test method draw of paper with x = 16, y = 29, rotation = 90 Failed because of the following reasons: the loaded image is not paper Test method draw of scissors with x = -74, y = -27, rotation = 450 the loaded image is not scissors What Am I doing wrong? I can't figure this out.
+0
+0
+3
+570e5f9f209a6505570003ff
+m4a
+how the gameResult is set
+I don't understand that line in RockPaperScissors class :   It must be simple because nobody asked about it but I cant't figure out how the gameResult is set.
+0
+0
+5
+570e54ff209a65055d0003d1
+m4a
+Lab 4 Task 2 - Need Help Please
+It runs fine on BlueJ even with negative values.of x and y .but the grader marks it incorrect for the test cases with negative values....(positive x and y are being marked correct by the grader) .......Please help... Any help would be much appreciated..
+0
+0
+5
+570ccd60c680f3051c0002f1
+m4a
+Lab 04 Task 1 - Are this.type and anotherChoice int values that i can use with arithmetic operations?
+Instead of using if and then im trying to consider the options of ... <!-- this.type - anotherchoice --> so if the value of both can be 2, 1 or 0, I use switch to distribute the result of the difference. Im not sure if I can do arithmetic operations like that, but since ... <!-- this.type and anotherChoice.getType() --> are supposed to have int values, I should be able to do that... Am I wrong?
+0
+0
+5
+570c191dc680f3056f00029b
+m1c
+"Finding the best way to travel from Hong Kong to London"
+I don't think it is a well-defined problem due to the fact there are many different "elements" you would have to figure out. If I go on google maps and lookup the best way to London from Hong Kong. Then, I would have to specify my current location, mode of transportation, and etc. There could be a flight that was only "x" amount of hours, but just to get to the airport could be 4 hours travel time. ETC. The best way to have a well-defined problem would be stating how, when, price, and etc. Just trying to find the best time to travel to London would be one problem to figure out. If, money wasn't the problem, you could consider any "well-defined" solution wasn't a problem. Because most of us are under the constraint of money as well... This makes our "well-defined" solution a bit different. Also, we must consider: any special needs(physical), time that we would have to "travel," and etc.
+0
+0
+1
+570beedc209a65055d00025a
+m2a
+code run perfectly but when i used same error occur
+my program run perfectly with ide but not accepted when i paste same and i am unable to understand what happen to my code, an error message is generated.
+0
+0
+1
+570aac43209a6505330001a9
+m2a
+unable to find and correct error in my program.
+what is the problem in my below code? i am confused please help me resolve my error?
+0
+0
+1
+5709f19f209a650512000184
+m5a
+Module 5 Array Exercise
+Code segment 1 : For the code to run correctly , a should have initialized int[] a = new int[4];  Code segment 3: The code needs a pair of bracket instead of parenthesis. Also, in the if bracket a[] instead of a(). Code segment 4: The array type is int, but the content of the array has double instead of integer. If all the corrections are made the output is 2.5 as the average. Code Sample 1: The output is -30.0 because it is the smallest integer in the array. Code sample 2: The output value of counter is 6 because there are 5 integers in the array list that is divisible by 2 with a remainder of negative one or positive one and the counter is increase by one which equals 6. Code sample 3: I am confused about this one. Code sample 4: The output is 10 because i is increased and j is decreased and the product is added to some until j is negative which is not true and ten is return as the output. TO FULLY UNDERSTAND THESE CODE I RAN ALL OF THE CODES AND I USE THE DEBUGGER. I AM CHEATING BUT I WANT TO UNDERSTAND WHAT THE LOOP IS DOING TO RETURN THE VALLUE FOR i and j to be set to sum.
+0
+0
+2
+57096bc46fcfa5053f000158
+m2a
+Module 02 Graded Problem Task 3
+In answering these questions I am not sure if I made an assumption or if I just did not understand what was being asked. I did not see in the instructions for the problems that we were supposed to use integer rules to solve them. In fact the directions talk about using only one decimal place in any answer. In the second equation we are asked to find the value of 2 + 15 / 6   4.0 is 10 and 10 + 2 is 12. The correct answer as given though is 10 because it drops the decimal from the 15 / 6 to give an answer of 2 instead of 2.5. Did I miss something in the instructions?
+0
+0
+5
+5707de946fcfa505300000a6
+m5c
+Week5 Debugging
+Line 35: Terminator at the end of the while of the while statement, note this applies only to the do-while loop. Line 49 && 50 : Needs else - if instead of if. Line 54: Terminator separating the assignment statement, the condition and the update in the for loop. Line 54: Variable i should be have been initialized. Line 54: For loop need have a terminator instead of a comma. Line 54: For loop does not end with a terminator
+0
+0
+1
+5706ad266fcfa5053f000021
+m1c
+hello world program
+I downloaded the hello world program but when i run that program, stripped icon is not popped up , i don't no why this happen?
+0
+0
+3
+570625be81e07b052c000c90
+m3c
+colorimage program error
+i am getting this error plz help
+0
+0
+3
+5705639881e07b0541000b7c
+m2a
+LAB 02task 03
+whats wrong here??...all attempts used 0 marks awarded..works perfectly in blue j!!
+0
+0
+1
+5705377510e0fd1501000500
+m5a
+Lab5 task1
+I wrote this code:      After that I wrote this code: > int swap = cardAIndex;   I compiled and no syntax error but not working. What can I do?
+0
+0
+3
+5703cc7fc3bac70511000a7c
+m5c
+Demo on Loops
+I would like someone to help me. I wrote a code to move the car in any direction. But it did not work because I wrote two loops separate who were united in third one. Like this:                              But I do not know how to calculate the " " and   and
+0
+0
+3
+5702692810e0fd055d00092c
+m2a
+lab 02 task 02 problem.
+i got the correct answer (considering the code ) i can't post the answer..
+0
+0
+12
+56feb920c3bac70547000819
+m2c
+Import comp102x.IO
+I just want to know where is the package comp102x.IO is located in my PC . i am just curious to see the source code . can any one plz help, i couldn't find it. Thanks in advance.
+1
+0
+8
+56fbae3ec3bac7053e00067f
+m1c
+Inability to write my first program
+Hello, i didnt get the program. I followed the instructions carefully, yet i kept getting errors
+0
+0
+1
+56fafb8e81e07b052c00065f
+m2c
+Coursegrade Project compilation  error
+After my trials to compile the work named "CourseGrade". Thats, the one preserved in the lecture content of module 2. I am getting this error: "Waring from last compilation
+0
+0
+1
+56faa5b7c3bac7052c0005ce
+m4a
+Solutions
+In the Lab4 says so:  The solution to this lab will be available after the deadline. You can then view the solution by clicking on the Show Answer button on each of the task pages.* But in Task1 at the end of the 5 attempts the button ShowAnswer does not appear. What can I do?I want to know the answers for Task1. Because I missed 5 times.
+0
+0
+8
+56f9bebf10e0fd05180005b8
+m1c
+I did not recieve lab1 grade .
+Recently , i started this class and completed my first lab and when i checked in the class progress i did not find any updates on my percent that i received. when will i get updated in the progress area and will i get a certificate if i am auditing the course
+0
+0
+1
+56f9641ac3bac7052c00051b
+m3a
+Module 03 Graded Problem Task 1
+doesn't understand what means .x in expression IO.outputln(q1.x).
+0
+0
+3
+56f85f9d81e07b052300050d
+m1a
+Module 02 Graded Problem Task 1
+I do not really get this question. I was only guessing to pass. But passing is useless if i do not get it. As, it means i am a looser. Anyone to explain it further to me? I have to attempt to it using sensefull mind.
+0
+0
+3
+56f25b6810e0fd053c0002c1
+m1a
+Graded problem
+I have scored 50%in my first module (still lab 1 has to be provided) , as it was my first graded problem i didnot realise when i had clicked on check instead of save. Is it necessary that in every module we should score 60 per to get the certificate or is it ok that we can do well in next modules and cover the grades.
+0
+0
+2
+56f00113c3bac705410001a5
+m1c
+Examples of Everday Abstractions
+There are quite a few of different abstractions that are used everyday in our life. An example would be texting on your phone. Regardless of the language, words or phrases used in a text message, the functionalities remains the same. You want to send a message to a particular person and receive a message from a particular person in a timely manner. That is the main focus behind a text message on your phone. This can also be true with an email. Another example could be a heater (during the fall/winter seasons) or an air conditioner (during the spring/summer seasons). The functionalities of the products is to keep you comfortable regardless of the changing temperatures. All of us are not knowledgeable on how these products work but know that as long as it keeps us warm or cool (depending on the season), it is successfully performing its duty.
+0
+0
+1
+56ee81e081e07b052f000132
+m1a
+Error in the program
+i am typing the exact program shown in the video ,still getting an error.
+0
+0
+3
+56eb5c46c3bac7052c000038
+m3a
+ColorImage
+I have problem to upload bluej project of ColorImage. i am using Intellij Idea to run this program but i am not able to find suitable package for intellijIdea.
+0
+0
+1
+56eade15391ced0567000a43
+m5a
+Lab 05 Graded Task 7
+I don't know how to execute the code in Lab 05 Graded Task 7. If I just put the code in the method BlueJ gives me a compilation error that tells me the variable array q2(int[]) is already defined. public static int q2(int[] array)
+0
+0
+1
+56ea7443ce929005130009c9
+m4a
+Module 04 Graded Problem Task 3
+My correct answer marked as incorrect. I even wrote a program to test:
+0
+0
+3
+56e7bdb1ce9290052b000895
+m4a
+Poor programming style
+The Rock, Paper, Scissors lab should be modified to teach better programming style. Specifically, the type should be a string "rock", "paper", "scissors". This would yield readable code. e.g. pseudocode    The latter requires extra documentation and is more prone to error. If a student went to work and wrote the latter they should be sent back after a code review to rewrite the code. Let's teach the right way from the very start.
+0
+0
+4
+56e50f37391ced055b000714
+m2c
+error
+![i m getting this error what is wrong in the program][1]
+0
+0
+1
+56e50e78ce929004fb0006e3
+m1c
+2d Apple
+I am unable to get the 2d apple program to run, any advice? I tried to open it in netbeans by clicking on apples.class
+0
+0
+1
+56e4145b4b860a05100006b7
+m3a
+Car2 Task B
+my English is not very goog, so I'm asking you guys to explain me what I should do in TASK B. I really don't get it. Please help me lads.
+0
+0
+1
+56e3e8e54b860a052b000683
+m4a
+Module 04 Graded Problem Task 4
+This question asks for the values of a char variable `grade`. It turned out that we need to enter just the letter for the grade, rather than that letter in quotes, so (e.g.) X must be entered instead of 'X'. Am I right, wrong, or just a bit weird for thinking that the value of the variable `grade` is 'X' and not X ?
+0
+0
+3
+56e3e0ba391ced050e0006b6
+m4c
+Dangling else - style question
+I get the point that "else" applies to the nearest possible "if", irrespective of indentation. But am I right in thinking that it would be better style to write:        In other words, do people usually use indentation to help match the "else" to the "if"?
+0
+0
+5
+56e2cd63391ced0570000678
+m3c
+#error
+its result a compile time error ... by saying no sutable constructor found for Week3Quiz(Double,Double)
+0
+0
+1
+56e1d64ace929005400005ee
+m3c
+CONFUSION!!
+I understand that objects are instances of classes but I do not understand what sir meant when he said  "Constructors allow instances of object to be created from the class template".  Could anyone please explain what instances of objects are.
+0
+0
+1
+56df160c4b860a05160003c1
+m2c
+shisharms bug fix
+cant find symbol .... Celsius we have to write celsius
+0
+0
+1
+56d8dc7d4b860a04f800003d
+m3c
+Help Please Anyone
+For lab3 I am getting the code right but the compiler is telling me that I am not adding the image in the right position. This code is right but I can not place the images on the canvas right. It is combining to images together instead of placing one image on the right and the second image on the left.  Staff edited: please avoid posting the entire code in the discussion forum, it is against the honor code. :)
+0
+0
+4
+56d754dd22a8fb053f000cdc
+m1c
+...
+A lighter is all that came to mind
+0
+0
+1
+56d6c45822a8fb0523000c78
+m1c
+Every day life examples for Abstraction
+example: you can consider a guy's massive weight and his habit for eating fast food every day and abstract that he is unhealthy, for a specific intent or purpose. an impractical idea; something visionary and unrealistic. can also mean to physically abstract something: the act of taking away or separating; withdrawal secret removal, esp. theft. Another examples: switch on off/ Something controlled by remote etc
+1
+0
+2
+56d6318e22a8fb0572000b3d
+m2c
+GenBarcode demo with real barcode fails
+I wanted to test the GenBarcode program entering a real 10 digit barcode that starts with zero. But I get an error "integer number too large: 0997328509. Any idea why? The number is lower that the original 1234567890 used in the demo and lower than 2^31 which as I understand is the limit for the integer range. Please advise. Thanks.
+0
+0
+3
+56d41ef022a8fb051f0009d0
+m2c
+Debug
+Description: "class" is to write without capital letter at the begining Solution: public class InputDemo
+0
+0
+1
+56d3c152ec442e05340009d1
+m3a
+getWidth()
+I was wondering what the syntax for the getWidth() or getHeight() is.
+0
+0
+2
+56d1f747ec442e04fe000908
+m2a
+Debugging
+Suggested fix: (celsius + "celsius is" + fahrenheit + " degrees in fahrenheit");
+0
+0
+1
+56d063d322a8fb0529000859
+m1c
+After right click on the SquareApple class the main method of the program "void main(String[] args)" is not showing.
+![Main method of the program is not showing][1]
+0
+0
+1
+56d031a9c01ce0054c0008d0
+m1c
+Abstraction principle
+We could think to a thermostat, on the panel we have many options, which could be temperature up or temperature down or an activeted system, that could be set up when the room reach a certain temperature. We also couldn't know what is the physic principle behind that but we know all the function that a user could choose on that device.
+0
+0
+1
+56cf3bffec442e051c000832
+m3c
+Modul03 Grade problem Task1
+public Week3Quiz(int i, double d) { x = i + d;  public Week3Quiz(double d, int i) { x = i - d;
+0
+0
+1
+56cd5587ec442e053d000742
+m4a
+Where does rotation come into it?
+When looking at the draw() method, I see it is passed an integer for rotation. Cool, sounds fun, I'm all for a bit of rotation. Where I'm getting confused is that I see no way to deal with the rotation when adding the image. canvas.add(image, x, y) doesn't include a parameter for rotation, nor does new ColorImage. I'm not even seeing a setRotation() method anywhere. Can someone please point to how to deal with this parameter?
+0
+0
+1
+56cb78c8ec442e05220006a4
+m3c
+Lab 3
+Could someone please help with lab 3? It is really hard and is do for me on Monday the 29 of February
+0
+0
+2
+56cb48ccc01ce005290005ce
+m2a
+Discussion on debugging
+Line 2: the word class should begin with lower case Line 6: To print a statement System.out.println is used instead of IO.output and the statements should be enclosed in double quotes instead of single quotes and a semicolon at the end instead of a comma. Line 10: the identifier Celsius should be in lower case . Line 12: To print a statement System.out.println is used instead of IO.outputln and it should end with semicolon. Right code is given below
+0
+0
+1
+56cb3d64ec442e050a00063a
+m2c
+Module 02 >Introduction >  Graded Problem Task 1
+Hi. I am new can you please explain the me the question of Module02 > Graded Problem Task 1. I tried a lot to find the solution but i am not able to get. Please help. Thank you
+0
+0
+1
+56caba69c01ce005380005fc
+m3c
+What is Constructor
+How the answer is one ......it should be zero because Constructor does not have return type.....?
+0
+0
+2
+56cab7b1c01ce00517000594
+m4a
+missing return statement
+I have found I get an error if I do not include a return statement at the end of the compareWith() method. Coming from Python this is VERY strange behaviour to me. But obviously it's a Java thing to force a certain way of writing code. Can anyone send me to a decent explanation of this structure requirement. OR if you think I'm doing something wildly wrong then do me a solid and help me out here. The reason I find it strange is because I have multiple return statements in my code. One for every possible if/else scenario (bad boiler plate solution to the problem). For example   So, since I have return statements in there, why is it telling me I'm missing a return statement?
+0
+0
+3
+56ca60c022a8fb053a000596
+m4a
+Lab 04 Graded Task 1
+Hi guys! Does anyone know what does it mean?  Number of Test Case Groups Passed: 0/1 Sorry! Your program takes much more time than we expected. It might ask for extra user input. Testing cannot be proceed." Thanks a lot in advance!
+0
+0
+2
+56c9378dec442e051c000549
+m5a
+Lab 05 02
+I wrote some code which passed the test, but am still puzzled by the result.  But I am not sure, how this code would work, if the very last card was facing up, and the game was played again, and again. A lot of people, here, helped me with their posts, in completing this task, so I thought, I might shine a light, to guide those following!
+0
+0
+1
+56c891aaec442e0537000503
+m3a
+Unusual compilation error in lab
+The compiler says that it could not find the image on the canvas object even though it has checked everything else to be correct. My code is completely according to the directions of the lab assignment. What are the potential reasons for this compilation error?
+0
+0
+3
+56c80ea2ec442e04fb0004bd
+m5c
+footballImage animation problem
+![what is the problem here? i cannot enter any object of colorimage class.][1]
+0
+0
+1
+56c806c5ec442e050700050c
+m4a
+Question about the  graded problem 1: initializing value of x
+As copied in the problem:            I would like to ask why the explanation said that the value of x is initialized to be 0 as I see no initialization in the code.
+0
+0
+3
+56c4f49622a8fb0553000333
+m1a
+Undefined answer
+I believe it doesn't have sufficient information for it to be a well-defined Problem. It lacks the exact detail of which London out of all London's that can be found in the world. . Not enough information to agree on a point, because different people will answer to a different destination.
+0
+0
+1
+56c4b6da22a8fb055b0002a2
+m1a
+Hello World
+I completed the Hello World lab two times. I completed the program in the compiler per the example and it is indicating no syntax errors. The program appears to work as expected. I completed the same code line verbatim in the assessment and the grader is indicating I may have unpaired curly braces. I do not understand why. Below is what I received from the grader.    > Your code might have an unpair curly brace. > There might be some other reasons for the compilation error.
+0
+0
+1
+56c435ca22a8fb0550000277
+m5a
+graded problem task6 [ Module 05 ]
+this is the question part: Whenever we run such inputs, we display output as array[3]array[4]array[5]error. I entered answer in format 789error. but my answer is shown incorrect. HOw?
+0
+0
+4
+56c43334c01ce0054f0002ae
+m1c
+Why is the demo and resources feature not available?
+I am on windows 10, 64 bit system. I switched from chrome to firefox (installed the 32 bit version). I have JRE installed. I have installed BlueJ. Is there any reason for the demo applet to not be working for Module 01: Introduction? Or have they been deactivated?
+0
+0
+2
+56c1f96bec442e0525000157
+m4a
+Lab04 task 3
+> 1.Incorrect. The value represented by the Choice instance is not in the valid range which is from 0 to 2. > 2.Incorrect. The randomness of value represented by the Choice instance cannot be tested when they are not in the valid range.
+0
+0
+1
+56c0b76fec442e05340000c9
+m2c
+Error compiling CourseGrade class [ major version 51 is newer than 50 ]
+I'm new in the course just beginning the module 2 and I'm getting an error when I try to compile the CourseGrade class downloaded from Resourses. I'm using linux mint 17.1, java and javac version "1.8.0_74" and bluej 3.1.4. This is the error i got:
+0
+0
+5
+56c023c2c01ce005080000a7
+m3c
+Discussion
+It will show you the error that "No suitable Constructor found"
+0
+0
+1
+56becf6fec442e053400001a
+m5c
+Please I need a Hint
+Please i need some hint on Lab 05 task 2 i do not find any on the board
+0
+0
+1
+56be3369af36f30587000097
+m1a
+I am getting nowhere
+I just started the course recently. But the link between the Edx page and Bluej is not working at all for me. How do I open a project? Where do I download it? If I download it into my Bluej folder, I do not find it when I try to work on the project. I finished HTML intermediate succesfully before. It is not like i am computer illiterate. But the mishmash of the course parts here is something I cannot assemble or make sense of. Please. Make the edx page the place to be. Link through directly. That is what works so well. This is what makes people like me just drop the course.
+0
+0
+2
+56bde95b17a62f05920009cb
+m3a
+What is this error about?
+A Canvas object is then created by calling the Canvas constructor with arguments. I performed this using following code and now i am getting these error. Can anyone plz explain? > canvas = new Canvas(int width, int height);
+0
+0
+8
+56bcf5d82d96fe051c0008d3
+m1c
+Barcode include file
+I have not been able to locate comp102x.IO
+0
+0
+1
+56bbbc1517a62f05580008cc
+m2a
+Please help with InputMismatchException
+First of all, I have to say that I posted the three Labs and all of them are correct and I got all the points. The problem is that after some tests with several type of data in BlueJ something change and an error happens:  I have several doubts: - First of all, where is the problem? - And then, is there any way to reset everything in order to be able to start again with the tests? Now I cannot input anything even the same inputs that were working before because the Class stops as soon as it starts (I tried to compile, etc, but to no avail). I have the same problem now with the others (multiply and cuadratic), and maybe the problem appears when changing to input floats, but if I understood right Double is the right type to float numbers, no matter how big they are. I don't know. I will really appreciate any advise with this . Thanks in advance.
+0
+0
+3
+56bb896e17a62f055b0008b7
+m5c
+PLEASE CLARIFY Urgently!!
+In MODULE 5 task 6 : is it that i should write out the output without errors and then write error with double quotes for the output with error? OR once there is any error i should just write error in double quotes or without double quotes.
+0
+0
+1
+56bb6cc117a62f057e0008c4
+m5c
+PLEASE CHECK!
+I find that the ball moves fast and then When i Shoot the ball, i score a goal when the post is out of sight but when i can see the goal post and i shoot then i donot get a score.
+0
+0
+1
+56bb17962d96fe052d0007f7
+m5c
+MY Observations
+line 28: The variable currentFloor was declared  final  and so its value can't be  changed or altered ,therefore the value 1 cannot be added to it. Line 32: Similarly since the variable currentFloor is declared Final,its value cannot be  decremented  this goes against the rule of a variable been declared  final  as that variable in other words is called a  CONSTANT  variable ( i.e cannot be changed ) Line36: The syntax for declaring a do While statement does not allow a semicolon after the  do  closing brace instead it has to be after the the closing parenthesis of the  while  condition. Line 47:since the if statements only have  one statement each to execute , This may not be a bug  However it is advisable to use the  else if  statements to make the if statements clearer and easier to follow. Line 54: We should have (i=0;i<5;i++) and  NOT  (i=0,i<5,i++); because semicolons and not commas are found in between the statements in the parenthesis also, there can be no semicolons after the parenthesis except after the statement to be executed within the for loop curly brackets  { }
+0
+0
+0
+56ba42ce17a62f057e000816
+m2c
+Module 2 Debugging - had seven errors
+Description of bug: IO-output Suggested fix: The correct usage is IO.output     Description of bug: Method was written using single quotes Suggested fix: Replace single quotes with double quotes  Description of bug: Line ends with a comma. Suggested fix: Replace the comma with a semicolon.   Description of bug: Trying to reference an unknown variable Suggested fix: Matching the variable with the correct case as when it was declared.     Description of bug: Line ends without a semicolon. Suggested fix: Add a semicolon to the end of the line. Apparently I missed out on the class error that other people experienced. I copied to contents of the class into BlueJ and not the actual class itself, so the capitalization issue was avoided.
+0
+0
+0
+56b98a5a17a62f058100074e
+m2c
+something wrong with problem answer
+in module 02 graded problem task3 first question ... the answer says 5%9 =5 which i think not true it is 5%9=4 ,isn't it?
+0
+0
+1
+56b9556317a62f05130006b4
+m2a
+Correct answer is shown incorrect. [  module 02 graded problem task 3 ]
+In module 02 graded problem task 3, i entered 3.... as answer to the question ... = 3.... i only got 0.67 points because the answer was supposed to be 3..... How is my answer wrong?
+0
+0
+16
+56b82de2af36f304fa00064d
+m4a
+Lab 04 03
+Having problems with the declaration: value not in range. Declaring by: "Choice choice = new Choice(randomInteger); Pretty sure this isn't correct, but cannot test in bj because of weird compiling errors elsewhere in program. Using three as upper range of random generator because Oracle Doc says it is an exclusive range. Very confused. Do I just need to remove one of the choice's? Or is it simply: int new Choice = randomInteger?
+0
+0
+1
+56b8237317a62f0563000631
+m4a
+Can't compile to test
+Cannot compile Lab04 because "public void draw(Canvas canvas, int x, int y, int rotation)" is illegal start of expression...
+0
+0
+1
+56b82009af36f305360006ae
+m4a
+Lab 04 01
+Tried to use the if/else method, but continually return incompatible even when using anotherChoice.getType() and this.type in the code. So now trying to use switch method. In the switch (anotherChoice.getType() ) cases, should I use this.type? If I use just type, won't I change the value of type?
+0
+0
+1
+56b72eb3af36f3053300063c
+m5a
+Module 05 Graded Problem Task 5
+Suggested tweak to wording: After "What does this program do ?", it might be useful to add "Assume n2 > n1." If that condition doesn't hold, the meanings of some of the offered expressions are unclear.
+0
+0
+1
+56b72cc72d96fe04f500059c
+m4a
+PLEASE HELP! [ LAB 04 GRADED TASK 2 ]
+> Test method draw of rock with x = 0, y = 0, rotation = 0 > Failed because of the following reasons: > the X position of image (50) is incorrect. > the Y position of image (50) is incorrect.    PLEASE HOW CAN I CORRECT THESE ERRORS?
+0
+0
+4
+56b57a3eaf36f30515000531
+m3c
+Corrupted ZIP folder
+When i downloaded week3 car demo it keeps coming corrupted folder and ddin't open it. I opened it in WinRar but the files didn't opened. If anyone knows about this please write in the comments section.
+0
+0
+1
+56b35f4617a62f055b00046f
+m1c
+computer systems
+how do you type a command when you're using the COMMAND LINE CLIENT ?
+0
+0
+2
+56b349ecaf36f3051b00043a
+m3c
+HELP! [ LAB 03 ]
+> It is correct that only one Canvas object is found. > The dimension of Canvas object is correct. > It is correct that the two instances of ColorImage are created by the default constructor. > It is correct that the Canvas object shows three ColorImages. > The content of result image is correct. >  The three images are shown in the incorrect position.  THIS is my Code
+0
+0
+2
+56b32575af36f304fa0003f5
+m4a
+Lab4 Task3
+I'm getting weird errors which i don't understand and going through the discussions which helped for task 1 and 2 don't help! I need help in figuring out whats wrong in my code. Random randomObject = new Random();
+0
+0
+1
+56b2ebd62d96fe05160003ec
+m3a
+MOD 03 Graded Prob Task 3 - Diagram in wrong orientation?
+This relates to the diagram in Task 3, where we need to adjust the moveForward method to allow for the orientation of the car. The diagram appears in Task 3A, but is actually being used to justify the 2 formulae we need for Task 3B, such as: Distance to Move in x Direction = Distance to Move * cos(Angle of Rotation) The top left of the image includes an x-y axis to remind us that the positive y direction is down in computer graphics, rather than up as in "normal" mathematics. This means that while in normal maths we measure angles anticlockwise from the positive x axis, in computer graphics we measure them clockwise from the positive x axis. So this diagram has the car at an angle of about -30 degrees. But the red arc that shows the angle being measured has the arrowhead at the bottom end. That makes it look like we're measuring from the sloping line of the triangle down to the base, about 30 degrees. We're not. We measuring from the base to the sloping line, and since that is in the negative rotation direction, we get -30 degrees. So the arrowhead should be at the top end or arc, since we measure from the x axis. But, if we're trying to make this diagram as clear as possible to those who aren't mathematicians, we shouldn't have chosen to demonstrate it for -30 degrees in the first place. We should chosen a simpler example that stays in the "1st quadrant". Let's use an angle of 30 degrees. So, I suggest we should flip the triangle vertically. Make the car travel from top left to bottom right of the screen at 30 degrees to the horizontal. The red arc should start at the horizontal edge of the triangle and arc down to the sloping edge of the triangle, with the arrowhead at the sloping edge.
+0
+0
+8
+56b21a7e2d96fe051000033b
+m3c
+CANVAS AND COLORIMAGE
+I am not satisfied with the content given on colorimage and canvas for completing the lab activity of module3.So ,i need help in order to complete the lab work.I would love if some extra content will be provided .Thanks for considering this post as soon as possible.
+0
+0
+6
+56b1a2582d96fe050a00032e
+m3c
+Problem with using lab templates
+I am not able to understand what to do with the lab templates given with every module.plzzz help.
+0
+0
+3
+56b157b217a62f05160002ef
+m5c
+Module 05 Graded Problem Task 2
+We are asked to evaluate the result of 2 divisions:         - Why do they both divide 56 by 8? I thought that in the first calculation ++a will add 1 to a (++a) and in the second calculation a++, a would stay the same, as 1 is added after the result is evaluated so "a" will be 7 in the calculation. - Why do both final values of a give "a" result of 9? In the first result I can understand that "a" will have a final value of 9, as a = 8, so ++a = 9 but what about the second evaluation?
+0
+0
+4
+56b147882d96fe05070002f6
+m5c
+Demo on Static Methods
+Why does `Demo on Static Methods` return a negative result as a factorial if you give `int t` a value of 17 or greater? Is it because the limitations to the int variable result being larger than the maximum value of an int?
+0
+0
+1
+56b129ea17a62f05920002e1
+m3c
+My Observations
+Line 17: There should be  no return type    because it is the Constructor with parameter  used to create a new IronMan object in the main method . And Constructors do not have  Return types.  Line 25: There should be an   before the method name  cleanSlateProtocol()  Line 29: There should be an  access identifier  Because  The Syntax of a method declaration demands that.  Also, the  variable givenId is declared as    and therefore its value Can't be assigned to the  String variable   .
+1
+0
+1
+56afac3517a62f055b000214
+m1a
+X RAY
+We are all concerned with our X-Ray result but we do not focus how X-Ray Machine works. A patient lies or stands and the head of the X-Ray machine is used to get the X-Ray image.
+0
+0
+1
+56adcd672d96fe05130000ea
+m1c
+Cannot run applet even on IE11
+I tried FireFox too, but I gat the same message.
+0
+0
+2
+56ad71daaf36f305300000d6
+m4a
+Why does the grader give me these results
+I have written the code inside: public void draw(Canvas canvas, int x, int y, int rotation) And the correct image displays in the correct position inside BlueJ when running testCase 1, 2 and 3 in Lab04GradedTask2 But after submitting the answer into the grader I get the following result:      > Test method draw of rock with x = 0, y = 0, rotation = 0 > Failed because of the following reasons: > the Y position of image (480) is incorrect. > Test method draw of paper with x = 13, y = 29, rotation = 90 > the X position of image (0) is incorrect. > the rotation of image (0) is incorrect.            > Passed because of the following reasons: > the loaded image is rock > the X position of image is correct. > the Y position of image is correct. > the rotation of image is correct.    > the loaded image is scissors
+0
+0
+3
+56acb41317a62f052e00007b
+m4a
+Lab 4 I have several issues
+I have been trying this code now for 6 hours or so and I am getting nowhere fast Here is my code: public int compareWith(Choice anotherChoice)                    The code did compile without errors until I deleted the last `return 0:` BlueJ compiler gave me an error "missing return statement"      How can I load my results in here to test my code in the Choice class as to me it seems that the variables to be used are declared in choice1 = 0 and choice2 = 2. Does that mean that:  If that is so naturally the result will be -1. How can I my code from compareWith(Choice anotherChoice) to the Lab04GradedTask1 for testing.
+0
+0
+1
+56ac55ab17a62f055b000056
+m2a
+Code compiles perfectly in bluej and works with all examples, yet continues to be wrong in assesment
+Here is my coding. It compiles perfectly in BlueJ and solves all the possible problems. Yet in the assessment, I continuously get:    > 3.[ERROR] reached end of file while parsing. Everything is enclosed. Everything is followed by a ;.
+0
+0
+2
+56ac215117a62f059900004f
+m4a
+Computer class
+If I read the questions correctly, I only need to provide code in Task1, Task2 and Task3. but in public class computer I find:     Do I need to provide code here to ensure that the computer makes a random choice before I can proceed to Task1?
+0
+0
+1
+56abc81caf36f3050c00002a
+m2c
+Contribution
+BUG: absence of the import statement Suggestion: import comp102x.IO to make the IO class available to use in the program  BUG: the word class is beginning with Capital C Suggestion: it should be changed to a small c     BUG: Celsius begins with  Capital C  Suggestion: Change to small c because java is case sensitive therefore  celsius  previously declared is not the same as  Celsius    Suggestion:  fahranheit  should be changed to  fahrenheit  as declared previously because this may lead to a complie time error. also the line must end with a Semicolon.
+0
+0
+1
+56ab5834a66778054a001179
+m4c
+Mistake in Car2 Demo?
+I have been testing the Car2 Demo originally included in Module 03 and have put the if-else statement in the code: public void moveForward(int dist)      if (dist < 0) dist = - maxDist; else dist = maxDist;             This would suggest that the `double dist` has the incorrect value assigned to it and as a result `double distKm = dist / 100.0;` gives the wrong distance i.e.: 100 meters instead of 100 Km. Hey I would buy this car!!! Perhaps it is a hybrid and moved 99 Km on the battery??? I would just like to know what the declared value of dist really is.
+0
+0
+2
+56aa0e5f5fd70904fc0010d7
+m4a
+Lab 04 - Task 01: return ?
+For the third "if", the compiler gives an error saying "unreachable statement". Or when I want to define instead of the return a result (e.g. result = -1) and write at the end a "return result" the compiler also gives an error "variable result might not being initialized". But I did in the beginning as "int result";
+0
+0
+3
+56a96a1da6677804f70010d9
+m4a
+Lab 04 Task 3
+My code has no sintax errors but it returns huge random numbers instead of 0, 1 or 2.      but it isn't possible because the type of Random.ints() cannot be converted into int. I've been working on it for a long time.... I would really aprecciate some help.
+0
+0
+2
+56a80f31e160f204fd00100d
+m2a
+Lab 2 Task 1
+I'm having trouble just getting by Task 1 on Lab 2. I've searched this forum and looked back at the lecture to no avail. I currently have the code as:                        <i> Staff edited : Please avoid posting the entire code in the discussion forum as it is against the edX honor code.</i> :) It still compiled with no syntax errors, but taking too long to run. I reckon that's not even the correct answer because of that. I'm not sure how else to do this and any further clarification would be appreciated.
+0
+0
+2
+56a7ad39a667780521000f4f
+m3a
+Lab 3 Task 3
+I need help with the add() method. I've referred all discussions and I can't understand them. I've created two colorimages and i used   ColorImage bothImage = add(ColorImage leftImage, ColorImage rightImage); The BJ compiler says I should add a ")" after "add(ColorImage" and then a semicolon after that and then the code collapses. I also need a bit of help in the docs as I can't understand the proper syntax of the code to be used and I managed the first two labs by looking at many of the discussions.
+0
+0
+8
+56a6d5575fd709053a000f11
+m3a
+It is incorrect that the default constructor of Color Image is not used
+What is wrong with the way this object is constructed?  In blueJ it produces the correct result, but when I submit the answer into Lab 03 Graded Task 1, after checking the result is produces: - It is incorrect that the default constructor of Color Image is not used This means my score for task 1 is 0.8/1 How do I create the object image1 correctly? in the ColorImage.html under "Constructor Summary" the syntax is stated as  Why is it wrong in the ColorImage object, and why does it not produce the same for the canvas object?
+0
+0
+6
+56a69a505fd7090537000efa
+m3c
+ColorImageDemo
+When I try to compile the project ColorImage, I get the error message "package comp102x does not exist" I haven't had this problem when compiling any other files which import comp102x.
+0
+0
+3
+56a50a275fd70904f6000d64
+m2c
+Week 2, Activity 1
+Suggested fix: insert  ;  at the end of line
+1
+0
+1
+56a4d6cca667780530000d8d
+m3a
+Lab 3 Task 1
+In the Javadoc, there is no getWidth() and getHeight(). I can't get the canvas to adjust to the image size and i get this error "The dimension of Canvas is incorrect. It should follows the dimension of image being shown."
+0
+0
+1
+56a3aac5a667780536000ceb
+m1c
+first time running of Square Apple program.
+It would have been more helpful to expand the description of opening this example program. To just say "Start BlueJ and open the downloaded project" is insufficient instructions to new learners. They should really have been directed to double click the file "package.bluej" which would open the completed solution in BlueJ automatically for them.
+0
+0
+1
+56a3914ee160f2054d000c6c
+m1c
+Abstraction
+A scientific calculator. The function buttons are an abstraction of the actual calculation that takes place. The user then sees the result of the calculation having used the abstracted function.
+0
+0
+1
+56a0c6d8e160f20547000b33
+m2a
+I must be stupid!!!! [ NoClassDefFoundError NoClassDefFoundException TesseractException ]
+I am trying to complete the Lab02 assignment but I am stuck with the message "cannot find symbol - variable input" when trying to compile my code in the multiply part. I have searched both this forum and google, but I was unable to get me past this point. From this forum I have learned that I am not alone in this. As an online student I cannot directly contact my tutor to get some assistance. Here is my code:       Why does the same method work in the CourseGrade sample and not in Lab02?
+0
+0
+4
+56a0b2135fd709051f000b41
+m1c
+Abstraction Example
+(1) AN ATM machine ,People just go the ATM machine caring only about their pin number and their cards need for transaction. With little or not thought about how the ATM dispenses out the money with high level of accuracy, How it is able to check your balances and just a click away and giving you appropriate feed back. All these technicality are Hidden from the Users. (2) Another simple but basic example of Abstraction is a Simple KEY AND DOOR. We just turn the keys to lock once or twice and the same to Unlock without been conscious of how this works. Its simple but still i think its abstraction in very basic form
+0
+0
+1
+569f2f58a66778053c000b09
+m4a
+lab4 task1 comparewith() method
+Hii! I am currently on the lab 4 task 1. But I am stuck here. It says to compare "this" value with "anotherChoice" and return 1,0 and -1. I did the same with the following piece of code:-           but this code giver error that there are "bad operand types for binary operator'<'. and that anotherChoice and this.type are different data types. Then what should i use here as parameters to compare?? please help me as i am stuck here for like a week :( Reply soon.
+0
+0
+1
+569f118ca667780515000a98
+m1c
+cannot run applet in internet explorer
+I am not able to run the java applet in the internet explorer 11.0 although I have installed java and enabled the java(TM) extension help me
+0
+0
+3
+569dfb9fa6677805060009bb
+m1a
+2nd Submission
+I tried to submit the lab the first time but for some reason the system was lower case and not System. Can I get that reset to first submission.
+0
+0
+4
+569dd224a66778054a00093b
+m4a
+Documentation of Canvas add method misleading?
+I've got two separate issues here. I ran into these issues when doing the Lab 4 Task 2, displaying the Rock/Paper/Scissors image. I'm using the first add method of the Canvas class, the one with only 1 parameter. That is: public void add(CanvasObject canvasObject) I discovered that switching the order of the setX, setY and add statements in my solution makes no difference. That is, I get the same results whether I : (a) Use the add method to put the CanvasObject on the Canvas, and then use the CanvasObject setX and setY methods to move it to the right spot; or (b) Use the setX and setY methods first to specify the location, and then use the add method to put it on the Canvas. The documentation for the first Canvas add method states: "Adds a canvas object to the canvas at position (0, 0)." If this were true, then (b) above should ignore the setX and setY commands and always place the image at (0,0). It doesn't. I suspect the documentation should something like say: "Adds a Canvas object to the canvas. If the object's x and/or y positions have not been set, they default to zero. That is, if neither has been set the image will be placed at (0,0)" Second issue: Where the documentation of the add method refers to "a canvas object", should this be "a CanvasObject object". That is, we're referring to an object of type CanvasObject. This issue occurs multiple times in both add methods.
+0
+0
+3
+569d4cf65fd709050e000900
+m5c
+Module 05 Graded Problem Task 1
+I made the program and test it in BlueJ with all the requirements that are in the exercise, the output is fine, but when I send the code, it says:   Number of Test Case Groups Passed: 0/1 Sorry! Your program might ask for extra user input or it might not read any user input. Your program code runs longer than we expected. The execution of your program is cancelled. The test result cannot be generated." 1) Do I need to make a main to send the problem (I only complete the body of the method and test it, it goes well in BlueJ with the expected result)? 2) Do I need to use the IO.output to ask for the parameters? I don't understand what is the problem with the exercise i send.
+1
+0
+3
+569c667c5fd70905020008c6
+m4c
+if statement case issue
+In the pdf file containing Week 4 lecture notes, page 49 and page 51 both have if statements that spell "if" with an upper case I. I think it needs to be lower case.
+0
+0
+1
+569a0f07a6677804fa0006d4
+m1a
+Not Understand- MODULE 1 GRADED PROBLEM TASK 1
+I am not clear with the very first question, plotted with the following condition in the course material.   I've run the test on BlueJ software and find 8 different solutions are possible, if we starting with the center position. So that's why I choose "    Not post answers to problems that are being used to assess student performance.
+0
+0
+2
+5696af67e160f2051a00054d
+m4a
+STAFF The Canvas is too big!
+I am working on the Rock-paper-scissors and it is fun. Unfortunately the images for the assignment are very large and so the canvas is necessarily very large too. When the canvas is instantiated either the top or bottom extend beyond the limits of my laptop's display. This prevents access to the minimize-maximize-close buttons or at the very least it is not possible to see the entire canvas to know if everything looks correct. I don't see why it would be necessary to use such large images for the purposes of this assignment? I want to use smaller images, but this would confuse the 'grader'
+0
+0
+2
+5695aae15fd70905080004bd
+m1c
+Radio
+How does it even receive the signal from stations. The sound?
+0
+0
+1
+56957b27e160f20538000491
+m1c
+daily life examples of abstraction.
+Over daily life is concenred with a lot of abstraction like a user using pc/laptop know how to use pc/laptop to meet his/her requirment but doesn't how his/her requirment fulfilled by pc/laptop. 2.Every person knows How to make a call but doesn't working of phone. We all know how to print our document but very few of us know working of printer and many more example are available in daily life where we can abstraction.
+1
+0
+1
+5695421fe160f2050e00042f
+m2a
+STAFF should delete my question after answering it
+Sorry I didn't realize this would posted immediately, so others could see it. Now I have read that I should not have done this so I wish to get my questions answered regarding error checking and significant digits and comments regarding my laziness in using double for everything, and then have you delete the code from my posting.
+0
+0
+1
+56947360e160f2054d000393
+m2a
+Lab 2c Math
+Is there anyone else that has been out of high school for a very long time and doesnt remember their math. If I had known such math was involved, I would not have signed up. I am so frustrated. I have no idea how to code this problem.
+1
+0
+9
+569437f7e160f205290003d5
+m2a
+errors in Java example
+I see everyone found the 6 errors I found:   Description of bug: Class Suggested fix: make it class  Description of bug: IO-output is wrong Suggested fix: make it IO.output Description of bug: use of ' twice and , once Suggested fix: should be " twice and ; once  Description of bug: variable misspelled Suggested fix: should be celsius not Celsius Description of bug: wrong literals   Suggested fix: should be fahrenheit not fahranheit
+0
+0
+1
+56929f665fd70904f300028f
+m1a
+question.
+I have used all of the check(?)(submit?) ( 3times), so I can't know the answer. I want to know the answer. could you tell me?
+0
+0
+1
+5692778de160f2053e000286
+m4a
+Lab 4  - Silly Question
+I have already passed all cases. However, what do I need to do if I want to play the games? I cannot figure it out in bluej
+0
+0
+2
+568ff7b4a6677805390001eb
+m4a
+MODULE 04 GRADED PROBLEM TASK 4
+I have been trying to understand wht the results are B and F , but not clear yet, If the value of score is 100. the result of 100/10 is 10 then we compare the first case and it matches, so we assihn grade = 'S' , we continue comparing becuase there is no break, when we compare cases 9 and 8 , they don't match so the value is not modified, then tere is a break , and the grade continues to be S . Similar withn 79, when it finds te match the other cases don't match , so why the value is replaced?
+0
+0
+2
+568f5807a66778054d000195
+m5c
+setScore Array method example question
+I do not understand one part of the setScore method of the Array section of Module 5. Why did we initialize an integer type variable called 'size' that was initialized with a value of 'score.array.length' when in the actual method for loop we never referenced that 'size' variable. We continued to use the 'scoreArray.length' in our for-loop-condition. Was that step necessary? If so, why is it necessary if we did not use that variable throughout the method? Per the lecture, this was the proper method...      //length is a constant instance variable for each array that //gives the number of elements in the array int size = scoreArray.length:
+0
+0
+3
+568c235b5fd7090540000025
+m1a
+compilation error
+in first assignment i hv to write a line "Hello, world" in different language so i try to write in 3 different language french chinese n japanese but in all 3 it show me error ... but this is not my mistake ..please fix this problem.
+0
+0
+3
+568a00a608ea03bc20000632
+m1c
+Computers
+I think computer is the best example of abstraction .We only press buttons and type in commands ,whatever is happening inside the computer is not of importance to the end user.
+0
+0
+1
+5680ca677febe56c59000492
+m2a
+Problem in second Lab
+Hello is a pleasure greeting you. I have experimented some problems when I tried to submit the solve of Quadratic Equation Lab ,what happen is that the system shows me a error that says "incorrect", but I have proved the my code many times and in the compiler it is correct. Please I need your help in this case.
+0
+0
+7
+56808610f2ff88cbed00047e
+m2a
+MODULE 02 GRADED PROBLEM TASK 4 answer
+I started working on this class very recently and I'm trying to finish it up by the 30th. I came across MODULE 02 GRADED PROBLEM TASK 4 and got the answer wrong after first answering the question by saying the result would be "0." Needless to say, I got it wrong. Then I ran the code through BlueJ, and the answer came out zero. My code is below. If all is in order with what I did, is there any way I could get the point for that question?
+0
+0
+1
+56806ccf08ea03f244000473
+m4a
+Lab 4 Task 3
+So I understand how to create a random of 0 , 1 or 2 but how am I to convert that integer into a choice. I've read for a while and cannot seem to figure it out.    > Assign a new Choice instance to the instance variable "choice" of the > Computer instance according to the random integer generated. You can > use the Choice constructor that takes 1 integer argument for creating > the new Choice instance. I cannot figure out how to do this! What is the Choice constructor and how do I use the random integer with it to convert the integer to a choice.
+0
+0
+1
+567d1c96f2ff88d8660003fe
+m1c
+Square Apple BlueJ project
+I need help regarding the Square Apple BlueJ project i can not do step 2 as i cant find "BlueJ" in teh Unzip file Your help is highly appreciated
+0
+0
+3
+5674c472f2ff882b7a00014b
+m5c
+Problem
+I have downloaded the blue j package for the demo project for the world cup However, when i try to open the editor it says no source so it willl not allow me to open Please advise what I should do
+0
+0
+1
+567036ec08f9a55cab000340
+m4a
+Module 4 graded problem task 4
+In the question what grade a student has received if his scores are 99 and 62 ( according to the program) the answer is E, but instead I wrote "E grade" which displays as a wrong answer. Please grant me the grades.
+0
+0
+1
+566fd805f3460835bf00032c
+m2a
+bar code exercise
+Hello could u please help me , in the barcode exercise i wrote the below              however i can't compile it , i followed the instruction appeared in the debug area but still i cant compile it . could u plz assist ?
+0
+0
+2
+566faf47d782e53875000320
+m2a
+How to fix the error in 02_Task Math is easy ?
+I was trying to submit my code for Triangle task but each time it give error. Although same code I try it in Netbeans and Eclips in both was working fine but in the task was giving the following error  [ERROR] illegal start of expression. [ERROR] not a statement.  The submitted code might have included extra code for class definition or method definition. There might be an incomplete statement. There might be some other reasons for the compilation error. How I can fix these error ? If it is fine I can post my code here ?
+0
+0
+4
+566f18f9f346085cfa0002c7
+m3a
+Right Answer Marked Wrong
+In my module 3 Problem Task 1, My answer to q2 was marked wronged. After I had changed it, it was still marked wrong leaving the q1 correct as before. Now I'm out of options to changed the answer back to my initial q2 answer. Is there a way you(TA's) can access the number of attempts and contents to a problem task to verify Answer?
+0
+0
+2
+566ec4e9d782e570da000283
+m3a
+Lab 3 - Do not understand the mistake
+For lab 3 assignments, I received the following comments for all submissions.     I have used the following code to construct an image file. Could you please let me know what mistake I have made? Thanks!
+0
+0
+5
+566e7cded782e50a0f00026f
+m3c
+BankAccount example error
+Hi, I am having problem with the bank account example from module 3. I have written the whole source code by myself (pretty much copied the original one from resources) but when I execute the program, I am getting the following error.  I have included all the necessary libraries and the program compiles without any errors. Any help would be really appreciated
+0
+0
+1
+566e39dff34608f77a00027a
+m2c
+Solution for finding bugs
+Description of bug: Celsius variable not defined Suggested fix: celsius should be used   Description of bug: no declaration of fahranheit Suggested fix: fahrenheit must be used  Description of bug: ; statement missing Suggested fix: ; should be used at the end
+0
+0
+1
+566dde4ff346081014000256
+m1c
+The dashboard on a washing machine.
+Think about the washing machines that we use in our every day lives. It can also be a good concept of abstraction. Think of the control panel of the washing machine, its dashboard. The switches and the buttons on it are what that makes the washing machine come to life. The buttons each represent a particular function of the washing machine that it does when we press them. Functions like the spin rates, the temperature, and everything else that a washing machine does. The thing is that we press the buttons for the washing machine to do the function it represents and the machine does. We don't know how the the process is done, how the machine works or we don't care how it is done. All we care about is the output that the machine gives. That is all we care about.
+0
+0
+1
+566d8b7308f9a5f513000237
+m2a
+[ Teachers, please help me! ]
+Hi, teachers, can you help me? I don't know where I was wrong in lab 02? The web told me that:   > Number of Test Case Groups Passed: 2/2 > The format of user prompts is correct. > The calculation result is the product of two integers.
+0
+0
+2
+566c2794d782e577280001dd
+m2c
+inquiry
+Do I need Java software to this course in module 2?
+0
+0
+1
+566bfbefd782e5c1ad0001bc
+m3c
+java constructors and methods
+The same question applies also to constructors. Am I missing something?
+0
+0
+7
+566bbac8f34608ea000001b0
+m4a
+Lab4 task1
+there is a problem with my code according to the grader                       Your code might have an unpair curly brace. There might be some other reasons for the compilation error(s). Though the method compareWith takes anotherChoice as the parameter, it compares the value of instance variable type of class Choice. Please help me understand why this happened
+0
+0
+1
+5668add6d782e58b1300009e
+m5a
+Lab 05, graded task 2
+Update;; I was missing something silly... I wasn't attempting to reproduce that particular test case correctly. Currently working on figuring out how to solve that test case now.   Update 2;; Figured out what I did, I had my if else statements implemented incorrectly, resulting in an incorrect order of operations when returning true or false   ;; This thread can be deleted if desired, or left for others to learn from my mistake (so long as I am not violating the honor code, which I do not believe I am as I have not posted my code).   * flipped up is 3. The game required me to match 3 & 4 again to receive the "congratulations" message. So, as far as I could tell, my code was correct and should have passed that test.  I used a counter that counted how many cards were flipped up and compared them to what the value should be when all of them were flipped up, indicating a win. returning either true or false depending on the result. Any tips/thoughts would be much appreciated. Am I missing something potentially silly and obvious? Thanks have a great day,
+0
+0
+1
+566624c888f756dd3c000326
+m2a
+Cannot find symbol - variable " "
+> int examWeight = 70; // Percentage weight to examination > int labWeight = 20; // Percentage weight given to lab work > int hwWeight = 10; // Percentage weight given to homework assignment > double examScore; // Examination score obtained by student > double labScore; // lab score obtained by student > double hwScore; // Homework score obtained by student > double finalGrade; // Final grade obtained by student             > finalGrade = examScore + labScore + hwScore; > // Output the final grade
+0
+0
+4
+5665cdab88f7569109000310
+m4a
+lab 04 task 01
+some part of my code is:          It is showing compilation error of "missing return statement".plz help me to retify it as i have only one chance left.. :)
+0
+0
+5
+5665c2c888f7560520000310
+m2a
+why is this wrong?
+This is what I've written is the first task, of 2nd lab:         Number of Test Case Groups Passed: 0/2 1.The format of user prompts is incorrect. 2.The calculation result is incorrect. If height is 19 and width is 81, the area should be 769.5 but your code outputs 17.
+1
+0
+3
+5665c026f09afdd37c00030d
+m2a
+what's wrong???
+This, is what I've writen in th 2nd task of the 2nd lab:         Number of Test Case Groups Passed: 0/2 The format of user prompts is incorrect. The calculation result is incorrect. If height is 19 and width is 81, the area should be 769.5 but your code outputs 17.  What EXACTLY did I do wrong?? :(
+1
+0
+0
+566479194ed7490d720002a0
+m3a
+Lab 3 Graded task 01
+sir , i am not able to understand what i have to do.please illustrate with some examples.
+0
+0
+9
+56644acd4ed749dfd70002ad
+m3a
+car 2 graded question
+sir i downloaded the program skeleton given in the course material but it shows cannot find symbol of distx.so please help me to rectify it so that i can solve my graded question.
+0
+0
+4
+56642c35f09afde1a2000265
+m2a
+what's the correct identifier??
+I have a problem in the first task... I wrote 4 lines. The first 3 ones are correct (I have compiled), but I'm having a problem in the 4th one, where I have to output a message to the screen. This is what I've writen:  I guess there is a problem with the identifier, but I can't understand what.
+1
+0
+3
+5663a99d4ed7497a70000268
+m1c
+Well Defined question
+It's a not a well defined problem because the "best way" is not specific enough. Are you taking about fastest, cheapest, comfortable, shortest, safest. There are different modes of travel between the two cities. Also I think London UK is implied but there are several cities around the world that are also named London. Also the best time to travel in between the cities may also mean the time of day and/or season of the year.
+0
+0
+1
+566031744ed7496c110000fb
+m2a
+problem in coding
+sir, i tried to write the code,but each time after compilation it shows illegal expression for this statement given below: public static void main (String[] args) could you plz tell me what's the error in this.
+0
+0
+6
+56600100f09afdb5240000f5
+m1c
+3D Apple Problem
+Because I lack in my understanding, I could not trace the red and green color question of 3D apple problem in video 3/unit 3 and also the questions in Module 1 Graded Problem Task 1 and Task 2 hope someone helps me with this.
+0
+0
+2
+565fd8a688f756dc7200010c
+m1c
+run a program
+sir,i downloaded bluej 3.1.4,but i am not able to run the program .plz help me to fix this problem.
+0
+0
+3
+565944e9c415f3bc72000517
+m4a
+lab4 task1 comparewith() method
+I have a doubt in lab 4 task 1. How can we compare the int value i.e. "this.type" with a paramater of type choice which is "anotherChoice"? I wrote this piece of code:-        it says the comparision factors dont have the same type. How do I solve this?
+0
+0
+1
+5657f488c415f396d8000466
+m2a
+Module 2 task 3
+So for one of the answers (I'm going to substitute x in for the actual solution) I had x and it was counted wrong and the right answer was x.0. Is there any way for someone to go in and give me that portion of my points back as none of the other answers required a decimal and zero at the end?
+0
+0
+5
+5652f18bc415f3e2c100024d
+m2c
+debugging
+Description of bug: Syntax error of public static void main(String[] args) { "{" Should start from second line   Description of Bug Syntax error( IO-Out put) should be written using (.) instead of minus (I.Output) also the phrase ( 'enter degree in Celsius : ') should be entered between double quotation ( "enter degree in Celsius : ") AND FOLLOWED BY SIMICOLUMN ; NOT COMMA
+0
+0
+1
+5652ecc29da26af5e6000280
+m2a
+How should i participate
+How could i participate in Module 2 Discussion of debugging ?
+0
+0
+1
+56528f6d711740f155000220
+m5a
+LAB 5 TASK [ not 01 ] ... [ retagged ::  is regarding Task 02 ]
+dear ricardo lab 5 task 1 is about shuffling cards which i have done lab 5 task 2 is about cards facing up and matching  here after the task i get a mssg "With a correct implementation of the method, a congratulations message should be displayed on the screen when all matching cards are found." this is not hapening i hope u got my point
+0
+0
+3
+56518b429da26a9f520001b8
+m3a
+graded problem task two
+i already trying the program but its just not working for me can you tell me why?![enter image description here][1]
+0
+0
+4
+56517b71711740dd6f0001a4
+m5a
+mohankp
+all the cards match but i dont get a congrats message and the gameboard does not end. plz help
+0
+0
+1
+5650a1ae9da26a7438000155
+m5a
+LAB 5 TASK 01
+i tried modifying the statement and now i am getting the same errors what others got it says incorrect Compilation Test: Passed. Number of Test Case Groups Passed: 0/1    Given the two index are 0 and 2 respectively. The id value pair of cards before swapping are {id: 0, value:1} and {id: 2, value: 3}. The expected id value pair of cards after swapping are {id: 2, value: 3} and {id: 0, value: 1}.  Failed (cards are not swapped) I HAVE read the explanation in discussions but could not understand. can u plz simply it to me
+0
+0
+3
+564eee3471174002120000e3
+m2a
+Finding x
+public static void solveQuadraticEquation() // put your code here
+0
+0
+1
+564dbdff9da26a3fa1000065
+m1a
+syntax error i think !
+Hi. when i wrote the below code in the graded problem section it returned a comment that it's not begin with Hello and doesn't end with khaled     i think it's a syntax error related to spaces . Am i right ? thanks
+0
+0
+1
+564ca27b1dfe59d51e000514
+m2c
+Module 02 - Discussion on Debugging
+Module 02 - Programming Fundamentals       IO-output => not an valid statement ' => wrong quote for the character literal , => invalid symbol for ending statement      Celsius => not an valid variable 9/5 => it is an integer division (no decimals); this is not what we want      IO.outputln(celsius + " celsius is " + fahrenheit + " degrees in fahrenheit") ) => missing the symbol for ending statement IO.outputln(celsius + " celsius is " + fahrenheit + " degrees in fahrenheit");
+0
+0
+1
+564c4a1890ef9af4570004e6
+m5a
+Lab 5 task 2
+Here is my code, and I don't know what's wrong with it:           Not post answers to problems that are being used to assess student performance.*
+0
+0
+2
+564a27711dfe59f710000368
+m1c
+Abstraction
+I Can download and use any mobile applications from play store or anywhere else whereas i don't bother about the code running behind it.
+0
+0
+1
+564a1510079df04b8c000318
+m4a
+Lab 04 task 03 problem
+> Choice choice = new Choice (number); what's wrong with it? can anybody tell me? it doesn't even pass the 1st test of drawing a number from range 0 to 2.
+0
+0
+1
+5649c3c790ef9a21da000339
+m1c
+Program classes in BlueJ - problem
+I couldn't find the classes in the SquareApple program and CourseGrade program.
+0
+0
+1
+564868d31dfe59261d000294
+m4a
+my code works well with blue j [ LAB 04 GRADED TASK 1 & 2 ] & StackOverflowError
+my code works well with blue j without syntax errors but when pasted on to your code area it shows compilation error plz help it is as follows:
+0
+0
+25
+56482a8d079df0e63400029d
+m3c
+Module 03 Task 3A
+I don't get it what to do..?
+0
+0
+2
+56459b4790ef9aaee80001c1
+m3a
+Lab 03 task1
+I always get a message that Use default constructor of ColorImage I dont understand what does that mean . Can someone help me with that.
+0
+0
+7
+5644bc251dfe596d31000178
+m5a
+lab 05 task 1
+the code i have written seems to successfully swap cardAIndex and cardBIndex values in the IDE, but I am getting an error when submitting the work, saying that the id value pairs haven't changed...
+0
+0
+1
+5644181490ef9a4e31000125
+m2a
+Module 2 Graded Problem Task 1
+Please I am not quite clear with what is expected from us. There are five fields there and I don't know if they are both for the right and wrong input! Thanks in Advance!
+0
+0
+1
+5640e3d29c2aee00ee000eb6
+m2a
+User Input value
+How I make user enter the number without main method? If I use scanner I got incorrect, if I intialize the x and y value, answer is incorrect , can anyone clear me?
+0
+0
+1
+56405532c7627726d000386c
+m2a
+Reading input through keyboard
+How to read an integer value through keyboard? As given in the task 1 to read two values. How to read those values?
+0
+0
+1
+56405106c762771f3f00372d
+m3a
+LAB  03 TASK1 [ how to read the documentation. API ]
+I am struggling with this work. Here is my sample code       the bold line is highlighted by blueJ as an error. It says that '.class' expected I have tried a lot of different ways but not got it right
+0
+0
+3
+56400f28c762772923002d96
+m2c
+Module 02 Graded Problem Task 3
+I'm not able to understand the solution of 1st question ?
+0
+0
+3
+563edcd2d2aca5d32f001757
+m1a
+Google translator
+Iam not able to understand how will I make use of google translator, do I I have to install it?
+0
+0
+1
+563e4f84d2aca5ee99001682
+m2c
+Askfor BarCode
+Just passing by the discussion section ... After saw the video first ideia that come to my mind was to make a simple BarcodeGen, not the same as the video. The program asks you a number and then it simple converts it to a barcode. Though it would give me some work but it's pretty easy. Just sharing with you guys.(Portuguese but i think anybody understand after viewing the classses.
+0
+0
+2
+5638d9eed2aca523b300144a
+m2a
+Discussion on debugging
+Description of bug: Syntax error of IO output format, there should be double quotes between parenthesis and at the end of the line there should be a semicolon instead of a comma. Suggested fix: It should be written as follows: IO.output("Enter degree in celsius: ");
+0
+0
+1
+563689759c2aee02ca000a9f
+m2a
+error in code comes when submit my answer
+my answer for lab2 i always got an error and i dont know why and i dont know if i should post the code here or NOT
+0
+0
+4
+5632bca1d2aca5f7ec001245
+m5a
+Lab 05 Bug
+Hi all, I think there's a bug in the Lab 5 code. It can easily be cheated if a player enters the same card twice, that way he can finish the entire game :). Or is this how the game was intended to work? P.S, one if statement solved the issue for me :). This course is rather fun though. Will there be certificates awarded for this particular course.
+0
+0
+1
+5632860cc76277e4ed0022a7
+m2a
+Debugging
+Sentence is IO.output and not "IO-output". Hyphen is wrong. " should be used instead of simple ' semicolon is missing to end the sentence. semicolon is missing in final sentence.
+0
+0
+1
+562ba5f49c2aeea957000596
+m2c
+assigment operator
+Could you please explain me what does "assigment operator" means? Unfortunately, english is not my mother language, and maybe this is why I don't understand it... So, if anyone could explain it to me, I would appreciate it. :)
+0
+0
+1
+562ba5bc9c2aee64410005bb
+m2c
+declaration and initialization
+Could you please explain me what does "declaration and initilation" means? Unfortunately, english is not my mother language, and maybe this is why I don't understand it... So, if anyone could explain it to me, I would appreciate it. :)
+0
+0
+1
+562a608dc76277d71d001579
+m3c
+constructor
+can u tell me what exactly is a constructor, why is it used ?
+0
+0
+3
+56291de89c2aee216c000411
+m4a
+Lab 4 Task 3
+I compiled this code with no syntax errors.
+0
+0
+2
+5628bb77c76277fa1c001197
+m2a
+Answers not responded
+while giving correct response on MCQ it is giving incorrect response, but same expression/program is verified on IDE/Net beans. Why is it so ..?? I'm loosing my marks. Result assessment should be IDE independent.
+0
+0
+2
+56263ae59c2aee2449000294
+m2a
+Task 2
+Where can I find more info on lab 2. The lecture showed how to set up with inputs using the public static void main(string [] args); however, there is no indication on how to use the public static void multiply () and I cannot seem to find any helpful information online - the only thing I find is the first string, Can someone help - I have no clue how to tell the java program to multiply and to return the result?
+0
+0
+3
+56254c3dc762776ccf000abc
+m2a
+Debug mod 2
+Description of bug: the variables were not identified first Suggested fix: Add line to say double celsius; double farenheit;   Description of bug: uppercase C in class Suggested fix: lowercase c   Description of bug: the string has a dash after IO and the input only has a single quotes Suggested fix: change the dash to a decimal (.) and change the quotes to double quotes (") and finally change the comma to semi colon (;)   Description of bug: no need to put double as the variable has been defined above, also lowercase c Suggested fix: delete the words double, change C to c
+0
+0
+1
+56241da89c2aee852200017a
+m1c
+laboratorio 1
+Estoy tratando de hacer el laboratorio 1 pero está deshabilitado
+0
+0
+2
+5623bda1d2aca578a10009f7
+m2c
+Java reserved words
+Do we have to learn the table with the Java reserved words???
+1
+0
+1
+5623bceac762771f3f0009b3
+m1c
+Buffer
+Is there a difference between Buffer, and RAM?
+1
+0
+1
+56200e6dc76277630e000743
+m3a
+Lab 3 part 2
+There might be some other reasons for the compilation error. Anyone know what these mean?
+0
+0
+5
+56200bbbc762771f3f0007c0
+m2a
+lab 02 task 1
+well this is my code    why is this wrong
+0
+0
+3
+561d310ec7627775b2000408
+m4a
+Bouncing Ball demo project
+How can I include the BouncingBalls class on the project? When I open the project on BlueJ (v 3.1.14) I can see only the Validator class. The project folder that I downloaded and unzipped contains the BouncingBalls.class file.
+0
+0
+2
+561c938ec762776d5c000339
+m2a
+Lab 2 part 3
+.... there is something wrong with my arithmetics but i can't figure it out.. someone check this out and tell me whats wrong!
+0
+0
+1
+561bc63bc76277cb32000243
+m2a
+lab 2 task 3
+can i have the codes for lab 2 task 3 cause i have failed it. And want to know how it is done
+0
+0
+2
+561bc461d2aca5b077000257
+m2c
+CourseGrade demo does not contain example error
+I noticed while trying out the CourseGrade demo (Module 2: Memory Allocation) that the supplied download program does not contain the example error, also the program, when opened for the first time, seems to have been compiled already while the one in the video has not. This caused some momentary confusion. Could this be updated for future students?
+0
+0
+3
+561aa5bcd2aca5f1f500016e
+m1c
+Moore's Law
+The professor said that it would take 40 years for a 40 year old computer to do what a computer today can do in a minute. I did my calculation, and arrived on a different answer. Please tell where my calculations or reasoning went wrong: Processing Speed doubles during a period of 1.5 years. --- According to Moore's Law. So, in 40 years, 40 / 1.5, i.e., approximately 27 periods of time will occur where the processing speed will double.       Please tell where I went wrong.
+1
+0
+2
+56195ab7c762776d5c0000ac
+m1c
+remove bug
+> Description of bug: Celsius not defined > Suggested fix: write celsius in place of Celsius   > Description of bug: fahranheit not defined and semicolon is missing at the end of line > Suggested fix: : write fahrenheit in place of fahranheit and at the end of line put semicolon(;)
+0
+0
+1
+561957d3d2aca55e650000b3
+m1c
+find bug
+> Description of bug: semicolon is missing > Suggested fix: at the end of sentence put semicolon(;)
+0
+0
+0
+5619331fc76277fa65000091
+m1a
+[ERROR] illegal start of expression.
+How do I fix [ERROR] illegal start of expression? at lab01 I had to print 3 lines, when I write it at bluej everything is great but at labs it doesn't work.
+0
+0
+1
+561836d9c762774e0a000004
+m1c
+Answer
+It is not a well defined problem to answer.
+0
+0
+1
+56174d9b01772b2feb003174
+m3a
+sir [ Lab 03 Graded Task 3 ]
+i am not able to assign values to the third image i.e the third image is three time the width of the 1st or 2nd image + 20 units.i could nt understand how to add 20 units to the third image and the syntax since whatever i do simply gets multiplied plz help
+0
+0
+1
+56173a0e9714b05d1700321b
+m2a
+problem in taking user input [  fully qualified name ]
+in LAB02: math is easy assignment how to import Scanner utility ?
+0
+0
+1
+5615e3cf01772bebe2003058
+m1c
+LAB WORK
+How do I submit my week one lab work?
+0
+0
+1
+5615cc679714b0f62a001c1d
+m2a
+Module 2 Lab 02
+Why is this wrong.
+0
+0
+2
+56155f0c9714b03b960032d8
+m1a
+"Hello world"
+I followed all the instructions, and wrote whatever I had to. However, It doesn't stop writing ERROR!!! Does it mean I did it wrong?
+0
+0
+11
+561548b301772bebe2002f9b
+m3c
+doubt in example: colorimage
+Hii. When i run my program for colorimage, then for the statement  it says "cannot find symbol- class Canvas" for the variable declaration statement. What to do to fix this problem? Do i need to import some file for this? And also is Canvas a datatype?
+1
+0
+4
+56149f3501772b2feb002f20
+m1a
+All depends what i need...
+Hello!, If i am a traveler-adventure then i want to enjoy, i will take a train or bus or boat...but if i am traveler bussines man or with family i will take airplane....together ways are eficient because it depends of what i want to do...
+0
+0
+1
+56143c3301772b1b0c002ef7
+m1a
+Hello World Lab 1
+Hi, I am on the first lab. I did it, it says:     The submitted code might have included extra code for class definition or method definition. There might be an incomplete statement. There might be some other reasons for the compilation error. WHERE IS THE ERROR?
+0
+0
+10
+5613f41101772be57d002d91
+m4a
+Branching Statements Practice Problems
+So here was the practice problem:       > if (z > x + y) > result = x * x / y;   Apparently the result variable will be equal to 9, even though neither of those operations equal 9. Shouldn't the answer be 1?
+0
+0
+4
+56138e3d01772bf714003010
+m3c
+lab 03 task 1
+how to enter values for get width and get height becoz whatever i do it says cannot find method get width etc. plz help
+0
+0
+1
+56137e8501772bc995002f6f
+m1c
+Abstraction Example
+Browser  (e.g Google Chrome) we Use is an best Example of Abstraction.... regardless of how it works ...we use it in our daily life.... or you can say  GOOGLE  search Engine is an another Example ... that whatever we write in the search panel is supposed to be searched regardless of knowing how it will be searched.
+0
+0
+1
+561299c29714b0798b002e15
+m1c
+Abstraction
+I think that the modem is a good example :) we're just pressing the on / off button of the modem and then starting work on the Internet but we don't care about how data are transmitted and processed
+0
+0
+1
+5611e8099714b03b96002eae
+m2a
+don't understand these syntax errors
+On the quadratic equation problem I keep getting a message when trying to compile telling me there's a missing semicolon. However, there's no missing semicolon. Not on that line or any other. Is this a bug, I don't know what I'm doing wrong.
+0
+0
+1
+560fd27e01772be57d0029ac
+m4a
+exact float value
+how to get exact answer by multiplying two decimal number using java
+1
+0
+1
+560ea24001772b5ea6002928
+m2a
+type casting
+If we put a integer value in a string, then can we convert to it in int data type so that we can use it as integer in our program? If we can please tell, how to do it.
+0
+0
+1
+560e73d401772bf07a002c07
+m4a
+Lab 4 Graded Task 3
+So this is my code below:   it's telling me they are "incompatible types: unexpected return value" If I add int in front of choice it says ".class expected" I don't know how to fix this
+0
+0
+11
+560e73ca01772b38df002937
+m4a
+Lab 4 Graded Task 3  [repeated post]
+So this is my code below:   it's telling me they are "incompatible types: unexpected return value" If I add int in front of choice it says ".class expected" I don't know how to fix this
+0
+0
+0
+560e2fed9714b00675001ac9
+m2c
+lab 2 doubt
+Hii.. I am facing some problem regarding your package comp102x.IO.When I compile my program,it says the package comp102x.IO does not exist.I have to use scanner then for I/O operations.Where can i get the package from n what should i do next? Thanks
+0
+0
+3
+560d311d9714b08e060029f5
+m5c
+Week05Debugging
+Line 28, after printing floor , current floor should be updated. Add currentFloor-- on line 29 Line 35, semicolon should be at the end of while statement Line 54, expressions in for loop should be separated by semicolon, not comma Line 54, For loop should not end with semicolon. It won't loop in that case
+0
+0
+1
+560cf7b39714b027430028fa
+m2a
+lab 2
+I'm doing this lab and I'm struggling. When I compile in BlueJ, it cannot find symbol method input () am I on completely on the wrong track? I have used the line IO.input (); I have checked and import comp102x.IO; is at the top of the screen
+0
+0
+2
+560a540e01772bc65100282c
+m2a
+Module 2 problem task 4
+I managed to guess the right answer but still do not really understand the idea of 32 bit integers and float. Can you explain this question / answer in more simple terms. Thanks
+0
+0
+2
+5609a19b01772bf714002622
+m1c
+Examples of data abstraction
+One example of data abstraction is a pilot in an airplane. Say the airplane has a cockpit that has been designed so that one pilot can fly multiple kinds airplanes without having to be re-trained. An example is the MD-10 and MD-11 airplanes, or the entire Airbus series of planes. When the pilot pushes the throttle and makes movements with the flight yoke, he doesn't need to know what the computer that controls the physical mechanisms on the airplane is doing. He doesn't even need to know which kind of airplane he is in, as the computer has been programmed to give a similar feel and control to different airplanes. In this case, data abstraction applies to physical mechanisms, computer mechanisms, and even to airplane type.
+0
+0
+1
+56091abb01772bc85200237c
+m1c
+Abstraction example
+A calculator can also be a perfect example of abstraction.We easily use the various functionalities of it like +,-,*,sin,cos .. etc without actually getting into the details as to how are these operations being implemented or carried out by the calculator.
+0
+0
+1
+560881a201772b5ea600238b
+m2c
+debugging
+line 6 and 12 contains errors the program should be ended with a semi colon
+0
+0
+1
+56069d4b01772b1b0c0022f6
+m4a
+Rock, Paper and Scissors [ Lab 4 task1 ] [ summary ]
+Please I dont understand the question on compareWith method. We are comparing with choice1 and I dont know the variable to be compared
+0
+0
+4
+56053c9a01772bc9950022ce
+m3c
+Stereo creator using eclipse
+I'm using java eclipse. I'm facing some problems during module_3 in both color_image and simple stereo codes when i run those codes a window pop up  I picked out java application then GUI but it doesn't work i have tried java applet and junit test but still doesn't work
+0
+0
+1
+5604dde89714b01cf200048f
+m1c
+data abstraction's example
+we all are using internet on our laptop in our daily life for different purposes like office work, e-learning, e-banking, e-shopping and the last but not the least social networking. in all these aspects, we only care about what the operations internet perform without caring about how it will perform these tasks like whatever the internal operations the internet perform from collecting the data to establishing the network frame between different users. so this could also be an example of data abstraction in our daily life.
+0
+0
+1
+560380a99714b04b6100225d
+m2a
+Quadratic help in Lab 2 part 3
+What am I missing?
+0
+0
+1
+560190239714b0c5bc000fda
+m4a
+Lab 4 Task 3
+Random randomObject = new Random();    I have this, but now i dont know how to initialize choice.
+0
+0
+3
+560112049714b008a3001f5a
+m2c
+Identifiers - awkward phrasing
+" is a sequence of characters consists of letters from a to z both lower case and upper case the symbols underscore and the dollar sign, can also be used and digits from zero to nine, except that digits cannot be used as the first character of an identifier." I suggest that you re-visit and revise the wording at this point in your tutorial.
+0
+0
+2
+55ffe3c79714b06f3d001dd1
+m3a
+Module 03 Football Image
+When I run the program and save the photo, it only give me the photo of the football without the flag. Can you please explain how to run this program?
+0
+0
+2
+55fe589d01772be15a001c25
+m3a
+Problem Task 3B
+The java.math package has not been imported, because of which, the cos and the sin keywords are not recognized by the JVM. Is there any other way to complete the assesment ?
+0
+0
+2
+55fc69219714b0c98d001c6a
+m1c
+doubt about language
+how to put other language in println statement is any shortcut required.
+0
+0
+1
+55f9760101772b425e001ace
+m3a
+Lab 3 Task 3
+How do I create and return picture 3? Is it possible to give me some tips on this? or even the correct name of the code - creating picture 3. I'm really struggling with this Task and I can't find any information about this code.
+0
+0
+9
+55f7e9d301772b1b0c0017c8
+m5c
+Improving Performance
+In matchingGame assigment, GameBoard.java: In the GameBoard() constructor it's written this for loop:  what actually happens when `MatchingGame.NUMBER_OF_CARDS` is executed ? Will the following alternative increase the performance of the code:
+1
+0
+8
+55f7e48f01772bebe20017b8
+m3a
+TASK 3B MATH LIBRARY REQUIRED - FIX!!!
+In This task we are asked to use the cos(); and sin(); functions that are included in the math library: > "By using the methods sin and cos in the Java Math class here, write a  The problem is that when the problem is graded the code that it uses to grade it does not have the code to include the math library. Therefore my answer is not accepted even though the result works in BlueJ when I include: import static java.lang.Math.*; This is what the grader outputs: Grader interpretation of your code is as follows:               > // Move the car in both x and y directions with the correct distances > // Notice that setX() and setY() take int as argument
+0
+0
+3
+55f6f0ad9714b0c98d001799
+m3a
+Lab 3 Task 1
+There is always something wrong in my answer: - It is incorrect that the default constructor of Color Image is not used. I don't know what it means
+0
+0
+5
+55f2ff4d9714b0c42d0015d6
+m4a
+Missing "Module 04 Graded Problem Set 02"
+It is shown on the horizontal axis of histogram chart in Progress, but I cannot find where to answer its questions !!!
+0
+0
+2
+55f2759b9714b058d90014ea
+m4a
+lab 4 task 2
+I have already submitted my code for task 2...and each one was incorrect. The code compiled fine but I failed the test cases (but my test code cases in the LAB 2 code all looked fine). Any pointers as to what I am missing...? First bit of code here:
+0
+0
+3
+55f1abc39714b0c42d001528
+m3a
+LAB 3 Task 3
+I have start doing the third task of the lab but i don't know how to begin with the problem. I Suppose that i have to use / public ColorImage add(ColorImage operand). BUt I don't know how.
+0
+0
+2
+55f1aa0701772be15a00143a
+m1a
+writing on a clear doc, making code run n finding premade worksheets
+i downloaded blue j. i created a file. i have three reasons why i am confused. firstly the page opens up to alot of words i dont understand and some boxes i have to type in instead of a blank page. i dont know what to do with that page or where to practive my Hello World code. secondly. i selected all and deleted that text and wrote my hello world code but when i right click to run the program the name 'main' that is supposed to appear doesnt. just open, compile, remove etc. lastly i wrote the code in the edX test page and moved to lesson two where i am supposed to open premade files. i do not see where they are. please help..this is super confusing
+0
+0
+2
+55f19c3b9714b0c98d00152f
+m1c
+Indentation
+How do you guys make indentation at the start of a new line? "tab"key?spacebar?
+0
+0
+1
+55f186679714b0c5bc00052a
+m3a
+lab 3 task 2
+when testing it tells me    It is correct that only one Canvas object is created. It is correct that the two instances of ColorImage is found on the Canvas object. It is correct that the two instances of ColorImage are created by the default constructor. The dimension of Canvas object is incorrect. It should be just fit for showing two images side by side. and I think the problem the problem is here (A Canvas object is then created by calling the Canvas constructor with arguments. The first arugment is twice the width of the first(or second) ColorImage object while the second argument is the height of the first(or second) ColorImage object. You can obtain the width and height of a ColorImage by using the getWidth() and getHeight() methods in the ColorImage class.) but I do not know how to fix the problem or do these argument .
+0
+0
+1
+55f0ce4d01772bf714001513
+m5a
+Lab 05 Instructions
+Under the description for Lab 05, it states that we are going to build four java methods. Looks like this needs to be updated to "two have methods".
+1
+0
+1
+55f0754e9714b05add000499
+m4a
+Lab 4 Task 3
+I am receiving this error message below. Not sure why.
+0
+0
+8
+55f001bc9714b05d6e000435
+m2c
+cant understand the IOinputdouble and IOprintln
+i cant understand the concept of IOinputdouble and IOprintln so please kindly give me a solution how can i understant those words
+0
+0
+1
+55efd7f99714b05d6e000418
+m1a
+A Computer Keyboard ... [ added: "e"]
+We use a computer keyboard to input data into the computer. We only care that we see what we type and not how the text is shown on or display. If the Keyboard is broken we don't have to replace the whole system, instead we fix another working keyboard.
+0
+0
+1
+55efc16901772b11430012ac
+m4a
+LAB 04 TASK 1
+I wrote a program for task 1. what i coded as follows                              It works well when I test with rock, paper n scissors. CompreWith() method returns a correct value. Did i miss anything? Please contact me at jinsun.hwnag@hyundai-autoever.com
+0
+0
+2
+55ef8f969714b008a30013e8
+m4a
+Bouncing Ball
+Can anyone offer some assistant on the Bouncing Ball assignment? I am not sure how to set up the switch statement.
+0
+0
+1
+55ef6e189714b0e00a001382
+m2a
+QuadraticEquation
+Can anyone share me the QuadraticEquation code? Please I failed the test but I really want to know the answer. I don't know why the "show answer" button didn't appear. I'm ashamed asking for it but it was so difficult to me.
+0
+0
+9
+55ef47369714b008a30013a2
+m4a
+Lab 04 Task 2
+why should i get failed while the value of second part for paper and scissorrs change? i have put the right number for each element for paper and scissors  Test method draw of rock with x = 0, y = 0, rotation = 0 Passed because of the following reasons: the loaded image is rock the X position of image is correct. the Y position of image is correct. the rotation of image is correct. Test method draw of paper with x = 18, y = 22, rotation = 90 Failed because of the following reasons: the X position of image (11) is incorrect. the Y position of image (25) is incorrect. the rotation of image (360) is incorrect. Test method draw of scissors with x = -99, y = -17, rotation = 270 the X position of image (-20) is incorrect. the Y position of image (20) is incorrect. the rotation of image (180) is incorrect.
+0
+0
+2
+55eeef559714b008a3001338
+m2a
+Module 02 Practice Problems
+What am I missing here? I'm doing the calculations in the right order. I tried answers as thought this would be a float or an integer. I'm stumped.
+0
+0
+6
+55eebcaf01772b83ae0013fb
+m4c
+Lab 04 Task 3
+Random randomObject = new Random();
+0
+0
+1
+55edfdf29714b03b9600139b
+m2a
+Missing Problem sets?
+I seem to have done all the problem sets I can find in Module 02, but my Progress chart shows no scores for Problem sets 2 and 4. Where can I find them?
+0
+0
+8
+55edda6f01772b660d001114
+m2a
+Loss of precision
+I am puzzled by a loss of precision in the answer to the quadratic equation problem. When I attempt to calculate the answer in one long expression:  where all the variables are double, I get answers that are incorrect. They might be 0.899999 vs. 1 for example. but if I break the calculation up into intermediate steps and variables: // break down the math steps   I get a correct result. All variables have been declared as double. What am I doing wrong?
+0
+0
+4
+55edd3a69714b08e1a00128e
+m1c
+Problem Solving
+There is some error in this section. The video said that the correct answer is NO   But in Module 1 Graded Problem 1 I said that the answer is no but I got it wrong? Please explain to me why this is so or if its correct can you please give the marks?
+0
+0
+2
+55edc1b89714b0798b001259
+m5a
+lab5
+can you tell me what type should I give to a temp location to save the index in. I did all what I can  [ERROR] incompatible types: Card cannot be converted to int. [ERROR] incompatible types: int cannot be converted to Card.  The submitted code might define variable in an incorrect type such that it cannot be assigned to the value of the right. There might be some other reasons for the compilation error(s).
+0
+0
+2
+55ecbeab01772b425e0012b3
+m1a
+Hello World Lab 1 rejects me
+Hi, I am on the first lab. I did it, it says    It is incorrect that the output "" does not match "Hello, world!" exactly." I wrote: "Hello, world!" and it still says that is does not match.  I moved to the graded task, y did everything they told me. it says the compilation test is passed but the test case no, it says "it is incorrect that there are less than 3 lines of output."
+0
+0
+2
+55ec1f8c01772b8fd70010e3
+m4a
+Lab 04 Graded Task 03
+Compilation done but getting errors- Incorrect. The return values are not in the valid range which is from 0 to 2. Incorrect. The randomness of return values cannot be tested when they are not in the valid range. But I see it is in the range according to definition.
+0
+0
+2
+55eaff2001772bc6510011d0
+m4a
+lab4 task 2
+it gives me error in the position of the picture and the rotation why!!
+0
+0
+7
+55e9e94f9714b0c98d0010ee
+m3a
+colorimages
+how to add two images in canvas please explain?? i mean how to program it? and how to do 10 unit space in the image?
+1
+0
+1
+55e9c5b301772bd511000fec
+m2a
+Testing code in Bluej.
+I want to test code in Bluej before submitting it. Here's what I'm doing right now: I start the Bluej environment with package.bluej as argument:      I compile the code. And, it returns "Class compiled - No syntax error". How do I see the output ? Compling is equivalent to: >> javac hello.java But, how do I get the output: >> java hello ?
+0
+0
+4
+55e967b99714b0505d0010d7
+m3a
+LAB 03 GRADED TASK 3  - "The result image is not found on the Canvas object." Error
+I am having trouble trying to understand the "The result image is not found on the Canvas object." error is. Can you please help? I basically modified the my Task 2 Java code to added another constructor to obtain a third image, then added the width of the third image + 30 units to the dimension of the Canvas.class's object, and finally used a third Canvas.class's add() method to add the object on the correct position. Am I doing something wrong?
+0
+0
+5
+55e88d8d9714b0800a001038
+m4a
+Null Pointer Exception when running Lab04GradedTask3
+Having a problem with “Lab 04 Graded Task 3”. This is where we allow the “computer” instance to make a rock/paper/scissors choice, and then the test code (class Lab04GradedTask3) tries to print out the resulting choice. I get a “java.lang.NullPointerException” error on the   Within the makeChoice method, I have the following. The lines that are commented out is my test code. I can retrieve the correct answer “choice.getType()” within my test code in makeChoice, but the system generates a Null Pointer Exception when it tries to do essentially the same thing from the testcase1 code. Random randomObject = new Random();            Then, I get the error on the Thanks for your help.
+1
+0
+3
+55e83e1301772bd511000f3d
+m3a
+Module 03 Task 3A
+Hi, I am struggling with this code. I used the following code but it gave me the error mentioned above.
+0
+0
+4
+55e7532f01772b425e00103b
+m4a
+MODULE 04 GRADED PROBLEM TASK 3 (Error)
+But i don't know why it is wrong.
+1
+0
+4
+55e6e66801772b5ea6000ecc
+m2a
+solve quadratic equation
+First solution for x is NaNSecond solution for y is NaN  i can't find my error!
+1
+0
+1
+55e588bc9714b03b96000dfa
+m3a
+Lab 03 ColorImage Graded Task 01
+Please help me with the following code.I am not able to run it due to errors.
+0
+0
+16
+55e3a68a01772b2d70000b24
+m3a
+Barcode Reading Error
+When using EAN-13 barcodes downloaded from the Internet in either .png or .jpeg format, the program is returning the error, "Error when reading barcode." It does not return this error when reading the barcodes included in the lesson folder. Why is this?
+0
+0
+1
+55e0d35a01772bc9ad000986
+m3c
+Graded Problem: Car2
+Why did the staff made a whole new method  Car2Demo()  for creating the Canvas ? why didn't they initialize the Canvas in the constructors or maybe called this method  Car2Demo()  from within each constructor ? Another question, why  distX  should be equal to distance to move * cos(AngleInRadians) ? shouldn't it be just distance moved ?
+0
+0
+1
+55e0d22301772b5ea60009a7
+m3c
+Module 03: Graded Problem: Car2
+In the moveForward() method, it's calculating  gasUsed  based on  distkm  which is calculated based on the parameter  dist , but if the user entered  dist  value as a negative number (moving backward), the variable  gasUsed  will end up being a negative value and so the instance variable  gasInTank  will increase which is not logical. So I think that it should be:
+2
+0
+1
+55e0314f01772b2feb00093a
+m1c
+motorbike
+motorbike when we kick it starts we don't care about the mechanism how it starts
+0
+0
+1
+55e00cf901772b2feb000929
+m4a
+LAB 04 TASK 2
+when I submit my task I get this output.Code is working fine in BLUEJ.I have tried but couldn't able to fix the problem. OUTPUT : Sorry! Your program might ask for extra user input or it might not read any user input. Your program code runs longer than we expected. The execution of your program is cancelled. The test result cannot be generated.
+0
+0
+2
+55de5d8a01772be15a00074e
+m2a
+Module 02 Introduction Assessment
+Does anyone understand what is being asked for in the Module 02 Introduction section?
+0
+0
+1
+55de11fb9714b0ee8100076d
+m2a
+10 is an error but 10.0 is correct?
+That is a really stupid way of marking a response from a human that is used to dealing with numbers! Just reading the expression automagically pops the number '10' to your fore-brain, not a redundant decimal part!
+0
+0
+1
+55dd5ed101772bf07a00070c
+m3c
+Introduction - video Car Demo: run demo project Car Intro
+and as a result I cant open an editor of Car1 project. Could you provide what is the pronlem? Before create a new project(I did it according video Car Demo) I deleted old project. I suppose there is problem because of this...
+0
+0
+3
+55dd390f01772b401700065a
+m4c
+Scope Part 1 computeGrade method
+Names of parameters of computeGrade method are same as instance variables of the class CS101Grade. It is shown in the video that, when the computeGrade method is invoked the values of instance variables (90.0, 80.0 & 70.0) are given(being copied) to the parameters of the method. This point is not clear. Please explain why they are being simply copied.
+0
+0
+3
+55dca83c9714b03b960005fc
+m1a
+Great Course
+Love the detail explanations in the course and finally learning Java. Will continue on :)
+0
+0
+1
+55dc92289714b033eb000597
+m3c
+Debugging
+Line 17: Constructor is IronMan() is declared with a return type void. Line 21: the function dance() is not returning any thing therefore void should be used. Line 25 and Line 29 :Both the methods cleanSlateProtocol() and setID() are declared without any return type. Line 33:The function getName() will not return any thing as it has void return type.Therefore the function is defined wrongly.
+0
+0
+1
+55dbad8601772b425e000508
+m3c
+import
+because when I start a program from scratch comp102x.IO the import command; This command does not compile Only if you do enter a given program and delete the rest so if it works
+0
+0
+3
+55db6e6f01772b2d70000457
+m3a
+loading images
+how to load 2 images in a single canvas??
+0
+0
+1
+55db4be19714b05c5d000466
+m2a
+Module 2 Graded Task 1 - Can not input
+I have started this as a self passed course just this week and am on Mod 2 task 1. However it will not accept any input at all, I can not type in the boxes using my num pad or key pad. As such I have not been able to complete this. I know it is only 1 point and I am not following the certificate path but I would like to check my understanding. Is this broke for everyone or just myself?
+0
+0
+1
+55db33b301772b0c4d000482
+m1c
+I think there is a problem in square apple problem !
+I think the project downloaded violates the rule that the previously visited cell shouldn't be visited again.
+0
+0
+2
+55db0e5501772bebe2000465
+m2a
+Lab 02: Task 3, NaN?
+After I enter input data for the task 3 (variable a,b,c) I get the values for the first and the second x NaN, what the problem is?
+0
+0
+3
+55dafab001772bf07a00047c
+m1a
+Can not do 1st lab
+Hello, can anyone help me? I downloaded the lab onto my laptop but when I try to do the lab its in read mode only
+0
+0
+6
+55daede79714b0800a00044b
+m3a
+lab3 task 1 [ NullPointerException ]
+hi i am trying to do lab3 ,when i am trying this code i am getting no complitaion errors but while running this program i am getting "java.lang.nullpointer exception:null" may i know why is this so plz and thank u in advance.
+0
+0
+12
+55da5ca19714b0ba3b0003d9
+m1a
+Module 01 Applet
+I'm running Windows 10, and cannot get the applet to run in Module 01. I've tried three different browsers (Chrome, Edge and Firefox) but no success. Thanks in advance for your help.
+0
+0
+1
+55d9f6c09714b07b990003d3
+m2a
+Barcode generator
+I would like to creat a barcode generator using BlueJ, I imported the library 102x but I keep getting the same error message. Please see bellow. Thanks for you help!!!
+0
+0
+3
+55d9eb2401772bf07a0003de
+m3c
+Module 3 graded problem task1
+i have not understood these two lines what does the q1.x and q2.x refers to if we write q1 and q2 insted of q1.x and q2.x why we will not get the solution. what is the need of ".x" here. can anyone explain please ty.
+0
+0
+1
+55d9da849714b0274300039e
+m2c
+Error while Barcode demo program running
+Could you help me in that problem?
+0
+0
+4
+55d991409714b0798b000370
+m2a
+module2 graded problem task one
+"The testing purpose of this test case is overlapping with a previous test case." What does this mean?, when I try to enter some numbers inthe testboxes.
+0
+0
+1
+55d8c19301772b38df000330
+m2a
+IO Compilation error
+Compiling the CourseGrade program I get the following error "cannot find symbol- variable IO. How can I fix it?
+0
+0
+2
+55d8429e9714b0505d0002e3
+m5a
+Lab 5 Graded Task 1
+Can anyone help me solving the error, My code is as follows > int temp = cardAIndex;         Given the two index are 0 and 1 respectively. The id value pair of cards before swapping are {id: 0, value:1} and {id: 1, value: 2}. The expected id value pair of cards after swapping are {id: 1, value: 2} and {id: 0, value: 1}.  Failed (cards are not swapped)
+0
+0
+16
+55d7f79b01772bdebd0002e9
+m1c
+Working of washing machine
+how a washing machine works and how can we increase its efficiency without affecting its routine.
+0
+0
+1
+55d7217d01772bebe2000264
+m4a
+Lab 4  graded task 3
+Random randomObject = new Random();  This is my code and it gives the following errors, Could you please help me how to solve this problems
+0
+0
+1
+55d59d8801772bdebd000162
+m1c
+square apple
+after i downloaded the square apple and runned in blueJ THEN AFTER I TYPED B,C,F, h and i\. IN THIS THREE STARTING POINT THE WORM HAD repetead its intial position. and according to the rule it is not allowed... sir, please answer this question. what might be the reason? is i am comfused
+0
+0
+1
+55d5169e01772b401700010b
+m2a
+Module 02 Practice Problems
+I don't understand what % is supposed to do. I understand that it comes first along with * and /, but I got this problem wrong:      What did I do wrong?
+0
+0
+3
+55d4ce1501772b83ae0000ce
+m2c
+Square Apple N
+i cannot run the Square Apple N program.when i open the project it says "no source".what do i do?
+0
+0
+1
+55d46f009714b058d9000087
+m3c
+BankAccount - Declaring accessor and then using variable
+There is a getter method declared in bankAccount class called getBalance(). Then, in the test code Mr. Pong uses testAccount.balance and myAccount.balance to get the value of the balance. Also, there probably should be a getOwner() method too. Should he not use the getter instead?
+0
+0
+1
+55d39ffcd7c4e37428000109
+m4c
+Character String video
+I noticed when I tried to download the Character String video from Module 4, that it doesn't provide an option to save it. It just starts the video. Will that be fixed?
+0
+0
+1
+55d3589a99918ee3d30000bd
+m1c
+Abstraction in daily life
+This morning I used a coffee maker. I pushed a button. It made me coffee. I don't know or care how. Same deal with the garage door opener. I pushed the magic button, door goes up :)
+0
+0
+2
+55d31f36d7c4e3df9f000067
+m4a
+Lab4 task2
+I am facing problem in passing the arguments to function add().         Failed because exception (java.lang.NullPointerException) is encountered. Your code might not instantiate object properly. I used setX() and setY() to set the positions and using getX and getY I got the required postions and I stored them into temp variables a, b and I have passed them in add(); What Arguments must be passed in place of a and b??
+0
+0
+3
+55d234b9a9a36e5e2100352f
+m3c
+Some of the transcripts don't have instructive names
+I noticed after downloading all of Module 3's mp3 & transcripts that quite a few of the transcripts don't have instructive names like the others. As this course continues as a self-paced course, it would be nice if someone would rename those.
+0
+0
+3
+55d208c4a9a36e1b220035ee
+m1c
+Module 01 Abstraction
+An Instant messaging app like hangouts, no one really pays attention to how the message gets from one person to another, but only pays attention to the message that was sent/
+0
+0
+1
+55d1f568b30d8463fc0038d4
+m2c
+IO finalwt code
+i am trying to run IO finalwt programme code in Eclipse IDE but it is showing errors in IO.input part.how can i correct it?
+0
+0
+2
+55d1eb89a9a36e7e59003466
+m1c
+My hello world code is being rejected
+After writing the hello world code,..and compiling it and finding that there are no errors, I submit it for the homework but it was rejected three times,..I don't know what is going on
+0
+0
+1
+55d1e916a9a36e72910035c4
+m3a
+moveForward Method
+When I submit my solution I keep getting the following error: [ERROR] cannot find symbol, symbol: variable dist, location: class Car2Task1. The method is defined as: public void moveForward(int dist){ // So this should be fine int distance = dist;    I can compile and run the code without issues using BlueJ so I'm not sure what I've done wrong. Can you please assist?
+0
+0
+3
+55d1bba9b30d84ede7002eb2
+m1a
+java
+what ever programs given as a assignment, i just tried to answer but my problem was in my bluej environment it is showing coorect with no syntax erors but when i upload it ,, It given as wrong complination i did'n understand what's problem happening.
+0
+0
+5
+55d08c0ea9a36e88ff003355
+m2c
+Debugging
+Description of bug:ended with , instead of ; Suggested fix:replace , with ;   Description of bug:use of an undeclared variable Celsius Suggested fix:use the declared variable celsius
+0
+0
+1
+55d03489a9a36e5e21003402
+m3c
+Multiple constructors
+If the constructor is not suitable to the input that we gave then it will return an error message, and will not get compiled.
+0
+0
+1
+55cff333a9a36ea971003309
+m3c
+Canvas and ColorImage
+So I was exploring the resources in the info page for Canvas and Color Image, I don't know why, but some of it doesn't work. Does someone want to help me or direct me to other websites that will help me with the classes Canvas and ColorImage?
+0
+0
+1
+55cfe712a9a36ecf41003398
+m1c
+data abstraction
+The best example for abstraction concept is ATM machines.ATM machines have both software and hardware aspects.We are much concerned about withdrawing money by pressing the buttons in the Console but what happens after pressing the respective buttons is not of our concern.We are more cautious about the functioning of a feature in an expected way rather focusing on its implementation part. that's where the abstraction begins ..(hiding the implementation details)
+0
+0
+1
+55cf4a18a9a36ea9710032b1
+m3a
+What is wrong with this?
+public ColorImage(int width, int height);    I have written this in the bluejay project for lab 3 and it says the public in the beginning is an illegal expression. Can someone please explain.
+0
+0
+3
+55ceebb2a9a36ee25a003298
+m2a
+Line number : 12
+the statement should be ended with a semicolon.
+0
+0
+1
+55ceeb0aa9a36e7e590032fa
+m2a
+Line number : 6
+it contain 3 error. First 'IO-output' is not valid.If we want something printed then we have to use IO.output.2nd is we have to use double inverted comma instead of single inverted comma if we want to print this line. And 3rd error in this line is the statement should be ended with a semicolon, not a comma.
+0
+0
+0
+55cee79ea9a36e435300321e
+m2a
+line number: 1
+First line of program should contain import comp102x.IO;
+0
+0
+0
+55cede2db30d8482e60031bd
+m1a
+Lab 01 graded task 1
+how can i get three lines of output ??? . i wrote first line and got one line output
+0
+0
+1
+55ce8f94a9a36ebe32003120
+m2a
+Integer read user input
+I have the libraries downloaded and I think I have the code correct. It still does not work. [picture of the problem I am having][1]
+0
+0
+1
+55cdf4d7a9a36eea620032a3
+m1a
+SQUARE APPLE PROBLEM
+i can not understand the solution of square apple problem. can anyone help me through image ??
+1
+0
+2
+55cd09e1a9a36e70060032fe
+m2c
+Input function for integers
+"IO.inputDouble" is frequently found for getting a float type input. Do you have a similar function for integers? Many thanks in advance.
+0
+0
+1
+55ccfabab30d84b8bb0030cc
+m2a
+Discussion on Debugging
+Error : IO-ouput is the wrong format for output statement. Fix : must be IO.output  Error: single quotes used for the sentence enter degree in celsius. Fix : double quotes must be used while asking for user input as the sentence is a string. Error : semicolon missing at the end of line. Fix : Add semicolon at the end of this line of code.  Error: celsius used is with capital C Fix : use small c for celsius.    Error: spelling - Fahranheit Fix: change Fahranheit to Fahrenheit Error: missing semicolon at end of line. Fix: add semicolon at end of line.
+0
+0
+1
+55cbb45aa9a36e88ff00305c
+m2c
+Module 02 Debugging
+Java is case sensetive language so Class with first letter writtern as uppercase letter is a mistake. We have to write word "class" instead of "Class"   curly bracket is used in different way in comperetive with curly bracket above. Instead of line 4 the curly bracket has to be on line 5   between IO and output a dash is used instead of point. we have to write IO.output();  in brakets is used wrong sybol. INstead of quotation mark ' symbol is used. We have to change ' with ".  After the final closing bracket on this line a comma is used. We have to change comma "," with semicolon ";"   Java is a case sensitive language. A variable "Celsius" is not defined. We have to define "Celcius" before using it on line 10 or change its view to "celsius" variable which is defined on line 8.  There is no casting made so after devidiing 9 to 5 we will get int number which is one. To get the appropriate answer on this line we have to change 9 to 9.0 or 5 to 5.0.   There is no closing semicolon at the end of the line. We have to put semicolon after the final bracket on this line. So it will be like ");"  The variable faranheit is not defined. We have to define faranheit variable before using it or change it in the way it is written on the line 10.
+0
+0
+1
+55cb25d8a9a36e7291003186
+m5a
+Error after compiling
+this statement gives an error after running the program that java statement  out of bounds . Pls help me with the declaration of the same.
+0
+0
+3
+55cb0f0da9a36e88ff002fbc
+m4a
+Lab 04 Graded Task 2-Is it prohibited in Java to declare a variable inside an IF-statement?
+The code I wrote first up was this:         I compiled it and an error occurred:"Variable cannot be declared here" Then I tried this one and it worked:       Is it prohibited in Java to declare a variable inside an IF-statement?If yes, then why?
+0
+0
+5
+55ca69a5b30d846a86002eca
+m2c
+Mod 2 Lab
+iN LAB 2 i KNOW MY answer is correct I ran it in bluej and eclipse and yet it kept telling me know it was not.
+0
+0
+1
+55c93a93a9a36e66e8002e3c
+m3a
+can't figure out Lab 3 part 2
+Hi, I am stuck on lab 3 task 2. I am not sure what the following means "The first arugment is twice the width of the first(or second) ColorImage object while the second argument is the height of the first(or second) ColorImage object." My code so far    Do I use another statement like line 3 for 2nd image but how do I deal with the width and height requirements?
+0
+0
+1
+55c8af72a9a36eb142002e56
+m4a
+lab04 task 1
+can anybody please explain me how "private int type;" in choice class refer to type i.e., as "choice=new Choice(type)" in player class by writing this.type . i know that if we mention this.type in any method in class it refers instance variable in same class i.e., it refers to "private int type" and how anotherChoice.getR1() in choice class refers "choice =new choice(R1);" in computer class.
+0
+0
+1
+55c888f5a9a36eea62002e4a
+m4a
+lab4 task3
+it gives me an error stating .class expected. Am i declaring it correctly??
+0
+0
+10
+55c880e5b30d847700002dc3
+m4a
+lab4 task2
+I am getting an error stating :setX(x) void type not allowed. Please let me know if my syntax is correct.
+0
+0
+1
+55c7fb23b30d846850002e92
+m1c
+Abstraction Example
+`enter code here`An example of data abstraction in everyday life is in the respiratory system. Humans are more interested in breathing, rather than "how" they are breathing. We generally don't focus on the mechanism of the lungs and the whole system.
+0
+0
+0
+55c7a72aa9a36ecf41002d50
+m5a
+Nice, they match!
+That is TRUE!! :-) But it is a bug...
+0
+0
+2
+55c78298b30d84a7e5002ab8
+m2a
+Compilation Error
+// Please write your code after this line
+0
+0
+1
+55c780bdb30d843c41002d34
+m1a
+Lab 01 Hello World
+I don't know Why my 1st lab Hello World is not working. Please help me![enter image description here][1]
+0
+0
+1
+55c73be1b30d84a7e5002a8b
+m2a
+Lab 02 error solving
+[ERROR] cannot find symbol, symbol: variable Io, location: class CalculatorEx01Tester. Can I know how to resolve these error?
+0
+0
+3
+55c72293a9a36e1d46002cd3
+m5a
+Fotball, java error at Linux
+Write once, run anywhere! Really?? This is an error I get when I run main() method from example week_5_animating_football.zip. This is my Java:
+0
+0
+7
+55c6a0bea9a36ecf41002cdb
+m4a
+Lab 4 task1----getting "return statement missing" error
+public int compareWith(Choice anotherChoice)
+0
+0
+3
+55c60ef1b30d84e33a0020c4
+m4a
+lab 4 [task 01]
+public int compareWith(Choice anotherChoice)               error -return statment missing ,how to remove it..
+0
+0
+1
+55c5f0cea9a36ea584002c8a
+m2c
+barcode
+hey, i didnt understand how the code of the barcode program works,i mean how it reads the barcode, can someone explain it to me.
+0
+0
+1
+55c5bb5cb30d843e96002b7c
+m5a
+lab 5
+I have intialized card but still error is coming that "variable card might not have been initialized"
+0
+0
+1
+55c5b315b30d84bdd2002ce1
+m4a
+lab 4 task 3
+Can we use ints for generating random integer number as required in task i.e
+0
+0
+1
+55c5aeafa9a36e7e59002c99
+m4a
+lab4 task1
+public int compareWith(Choice anotherChoice)
+0
+0
+1
+55c5a7e9a9a36e7291002de9
+m4a
+lab4 task1
+public int compareWith(Choice anotherChoice)           error :- int cannot be dereferenced. plz also suggest if there is any other issue.
+0
+0
+1
+55c57d0eb30d848f10002faf
+m2a
+class IronMan
+In class IronMan we are to debug without running the program. The first problem I see is in line 30. ID = givenID. Error, string = int.
+0
+0
+1
+55c4f127a9a36edd16002c26
+m1a
+Module1 - Abstraction
+There are many examples in our real time; vehicles we use to travel and mobile phones we use to talk,Air Conditioners,refrigerators and so on. All we bother about is whether they work properly or not ,when we try to operate them. But not what is happening internally when we use or power on them.
+0
+0
+0
+55c41c77b30d84e33a001fe3
+m1a
+1st Week Lab
+Guy i'm having a problem and i hope someone can help i write a simple hello world program on bluJ program and it run smoothly without any Errors But when i try it on Lab01 it doesn't work and it give me an error says     The submitted code might have included extra code for class definition or method definition. There might be an incomplete statement. There might be some other reasons for the compilation error
+0
+0
+5
+55c41beda9a36e2f6d002bbb
+m2c
+Example: Car 2 Compilation error.
+Hi, I tried the program Car2, but when it compiles, it says: "cannot find symbol - variable distX". I tried tweaking the program a bit, but it still would not compile. Thanks in advance.
+0
+0
+7
+55c3ac03b30d8463fc002f4b
+m1c
+CD/DVD/HDD OR PEN DRIVES
+"cd/dvd/hdd or pen drives-- we all use these thing nowadays but we never thing about how does they work or implement...we directly use paste command to put our data in these devices to shift here to there...and in our destination we again directly use copy command to get back our data in another our devices...but never thought about copy and paste command functionality... [like that..reading of the data,bitsector,writeing on disk or sectors,,etc.]..... its mean data abstraction teach us the way of thinking in computer problams and devide the problems into separate parts...what & how...." (String)
+0
+0
+2
+55c3642fa9a36e3237002b41
+m3a
+Curiousity of Week3Quiz code?
+In the week 3 materials, in the General Structure part, there's a problem set; in the end of the code of the problem set, why we use the IO.outputln(q1.x), and not IO.outputln(q1) only? Thanks in advance. This is the code extracted directly from the task:      public Week3Quiz(int i, double d) { x = i + d;  public Week3Quiz(double d, int i) { x = i - d;
+0
+0
+3
+55c31f97a9a36ea971002ae6
+m4a
+lab 4 graded task 1
+inside the compareWith method i have initialized an integer z, the value of z should depend on the result of comparison between type and anotherChoice and the method returns z at the end. The value of z is not always correct and i don't know why > int z=3; at the 1st line of the method    the problem is that in the above case the method returns 3 instead of -1 and i can't figure out why, any help plz
+0
+0
+2
+55c2461ca9a36ed582002b14
+m2c
+DISCUSSION ON DEBUGGING
+i fixed the code lol
+0
+0
+3
+55c1e362b30d840f2c002bc3
+m3a
+Lab 3 Graded Task 4 (Multiply)
+I don't understand how the multiply function works... At all. I've studied the ColorImage page a few times, but I still can't figure out how to multiply image1 and image2. At first, I thought I had to use the code "static ColorImage multiply(ColorImage image1, ColorImage image2);", but since it's the method, it's an illegal start of expression. However, I can't figure out another way to multiply image1 with image2. If I simply write "ColorImage multiply(ColorImage image1", the compiler finds a syntax error and says that the coding requires a semicolon after the multiply and won't accept parentheses ("ColorImage multiply;). What am I doing wrong? How do I multiply image1 with image2? Thanks in advance!
+0
+0
+3
+55c136a5b30d840f2c002b42
+m4a
+Lab4 Task1
+i've tried to implement the code several times, but i can't get the error, probably i'm confused with variables. someone could give me a tip Here is the code:
+0
+0
+1
+55c098bba9a36e66e80028c4
+m5a
+Test Case "All facing Upwards" failed
+Why did it returned False when all the cards were facing upwards..?
+0
+0
+6
+55c04dacb30d841bfd00298c
+m2c
+Package comp 102x
+Hi, when I compile my package after importing comp102x.IO it says this package doesn't exist, where do I get it?
+0
+0
+3
+55c0240eb30d845692002815
+m1c
+Module 01 Abstraction
+Toasters or microwave are examples we push a button and are food is cooked. ATM machine- you get money out- but you are know how it works.
+0
+0
+0
+55bfb4afb30d84bdd200289f
+m4a
+lab4 [task 01]
+public int compareWith(Choice anotherChoice)            plz tell the error ...
+0
+0
+3
+55bfb22aa9a36e7e5900286e
+m4a
+lab4 [task 01]
+In lab 4 task1 we are asked to compare current choice i.e instance variable choice using this.type with anotherChoice which of Choice type .I have a doubt that this.type is of int type but anotherChoice is class object will it not be a error?
+0
+0
+1
+55bfab58a9a36e1d460027f9
+m3a
+add image to canvas
+in lab3 to load an image on canvas,i have created the canvas object and color image object but how to add the image to canvas?i can't figure out how to do this line "Lastly, display the ColorImage object on the Canvas Object by using the add() method of the Canvas class. The ColorImage object is placed at the top left hand corner of the Canvas Object."
+0
+0
+4
+55bf53e6a9a36e86bc00281c
+m3c
+method calling through an object
+how does the method call x=object1.function(object2); work?for ex. if we want to add object1.data and object2.data , how to write the function?
+1
+0
+1
+55be50f9a9a36ee6f200266c
+m1c
+languages
+Is there a way to find out the number of languages that java can be programmed in I found out throughout the online tutorials that java was created with internationalization in mind thus, it can be programmed in Chinese. i wanted to know if it is programmed in another African language
+0
+0
+1
+55be4a7fa9a36e362d002771
+m2c
+Problem representation
+After watching the videos on square apples i wanted to know if there are videos on state space representation and any books or notes on the topic area of problem representation or state space representation. I would like to further my understanding. Can you for reading. Any help would be appreciated
+0
+0
+2
+55be216aa9a36e3ee100278d
+m2c
+IO.output("Enter your exam grade:");
+Why does this shows Syntax error when I compile the Course Grade
+0
+0
+2
+55bdccaca9a36e5a7600270a
+m5a
+lab5 task 2
+[Staff edited: please avoid posting the entire code of the exercise. :)] The error is coming that return statement is missing could anyone plz suggest the solution ?
+0
+0
+9
+55bdb09fa9a36edd160026fb
+m4c
+static
+Can we call the methods inside or outside the class which are NOT defined as "static" using the class name or do we have to create object for them.
+0
+0
+2
+55bd1a62a9a36e2f6d0026a0
+m5a
+LAB 5
+I am getting very confused in projects having more than one classes. For example in lab5 task1 was to complete the method swapCards. I wrote the program now i want to see whether it is working fine or not so i compiled it and there was no error. As it was part of gameBoard class so i created the object of gameBoard named gameboard1 but when i right clicked it to run the method swapCards there was NO such method named swapCards present in the instace gamboard1.![enter image description here][1]
+0
+0
+1
+55bcd84bb30d8454c700251c
+m3a
+lab3 tasks problem in writing the code
+Please help as I wont be able to complete my tasks.
+0
+0
+4
+55bcc487a9a36ee25a002669
+m4a
+Lab 4 Graded task 1
+i am not able to differentiate between 'this' and 'anotherChoice'. i mean 'type' is of type 'int', and 'anotherChoice' is of type 'choice', so how can we compare these two different types. P.S.- Please post 10% of the correct solution.
+0
+0
+1
+55bc85aba9a36e2f6d002652
+m4c
+Can't understand scope and visibility of instance variable
+- Suppose if I declare instance variable visibility as public, Can the classes in other program access the instance variable in my current
+0
+0
+2
+55bc7eb2a9a36e66e8002639
+m4a
+COMPILATION ERROR
+reached end of file while parsing. WHAT DOES THIS MEAN??HOW TO RECTIFY THIS??
+0
+0
+2
+55bbc6a3b30d847d270025e2
+m3c
+How can I use math. library and what void type and return mean easily
+Hi, please I need to know how to use math library or I must remember its functions? like math.sqrt(int x)?? And I want please to know what void type mean because I did not get it from the lecture , and what return key word mean?
+0
+0
+1
+55bb8d9eb30d8444570026db
+m3a
+COLOR_IMAGE
+What is the syntax for using add() method of the ColorImage class???
+0
+0
+1
+55bb7bd9a9a36ebe320024d3
+m2c
+MODULE 02 GRADED PROBLEM TASK 3
+Good afternoon, colleagues of the course and teachers. I could not understand what it means to those operators in the following exercise: What do you mean or mean: 7 % 2? What means 6/7 this exercise? What is the result of each of the Following expressions? Enter "error" if you believe the expression will cause an error.                      I look forward to your answers, please.
+0
+0
+1
+55bb16d1b30d846a8600253c
+m3a
+CANVAS
+HOW TO MAKE TWO IMAGES ON A CANVAS SIDE BY SIDE WITH NO GAP BETWEEN THEM???? I AM CLOSE, BUT NOT GETTING THE DESIRED RESULT!PLEASE HELP ME OUT     > "how to make two images on a canvas side by side with no gap between them???? i am close, but not getting the desired result!please help me out" (String)
+0
+0
+4
+55bb0811b30d847d27002576
+m2c
+Coursegrade program is not running.
+I have written coursegrade program same as in video but it is showing error  cannot find symbol - method inputDouble() in line of examScore = IO.inputDouble(); how can i resolve my error.
+0
+0
+4
+55baf5ccb30d841bfd002649
+m2a
+Expressions
+In the Module 02 Graded Problem Task 3, I response the second question well (10), but it saids the answer is wrong. Then, it saids the good answer is 10??? Sorry for my english
+0
+0
+1
+55baeee4b30d84ede7001e40
+m2a
+Module 2 Quadratic Problem
+I have another problem in Module 2 regarding The Quadratic problem in "Math is easy". I am homeschooled, and 14 years old, and have not quite learned the Quadratic problem(Even though I'm doing so far so good in Algebra.)
+0
+0
+2
+55bae601b30d84a7e5002336
+m2a
+Module 2 Code
+Hi, I was just wondering, I entered the code that I was supposed to in "Math is easy" - Module 2. I tested the code to make sure it worked, but every time, the webpage said my code was wrong. Thanks in advance.
+0
+0
+1
+55ba60ebb30d843e96002462
+m4a
+lab4 task2
+I am not able to get what we have to write in Canvas canvas column in the figure above
+0
+0
+1
+55b9309da9a36e00ed002454
+m3c
+question about car example
+Hi in the car example i could not figure out why there isn't the public static void main(String []args){ } and just methods and constructors are written? also why there is not the void main string button which runs the program?
+0
+0
+1
+55b91fc2a9a36e4e4e0023ec
+m4a
+lab4 task1
+I am not able to get what does the point number 3 of lab 4 graded task 1 means which is as follow:- "Obtain the instance variable, type, of the current Choice instance and that of the other Choice instance, anotherChoice. Compare the two type, and return the following according to the rules of Rock-Paper-Scissors: 1 - If the current choice beats the other choice. -1 - If the current choice is beaten by the other choice. 0 - If the game is a draw."
+0
+0
+19
+55b888e0b30d84a7e500213b
+m2c
+Errors in The program
+Description of bug : C of class is capital. Solution : write class instead of Class.           Description of bug : Statement ended with a comma(,) Solution : The statement should be ended with a semicolon (;)       Description of bug : Statement is terminated incorrectly Solution : Use a semicolon (;) to terminate the statement.
+0
+0
+2
+55b805ffb30d843e9600222f
+m2c
+println and outputln
+What exactly is the difference between println and outputln?
+0
+0
+1
+55b7f3a4a9a36e70060023b2
+m2c
+java.util.InputMismatchException
+Good afternoon, When I download the CourseGrade program and run it, there´s no problem with the compilation and the execution of it. How ever when I try to input the value 100.0 to the program there´s a compile-time error showing the following exception:   Playing with the program I decided to give it a shot not separating the decimal part of the number with "." but with "," and for my surprise the program works just fine. When i run the debugging program I see that even if T tipe 100,0 the actual value that the variable takes is 100.0, and at the end with the instruction IO.output("..." + finalGrade); the result is also displayed as 100.0 How can I solve this issue? I can not find any references to this specific topic on the internet.
+0
+0
+1
+55b7eb5bb30d84000200229a
+m2a
+discussion on debugging.....errors in the code
+//I am just writing the correct code with comments showing the errors public class InputDemo//c of class is in small,not in caps like Class
+1
+0
+1
+55b7b5cbb30d849ac8002154
+m2c
+CourseGrade doesn't run?
+Good evening from Indonesia, everyone... As I'm watching the lecture videos in the Memory Allocation, I tried the CourseGrade program exactly what the lecturer input into the program. However, when I tried it with the floating point number (the same value that the lecturer inputs in the video), the program throws an error, in the terminal window saying "java.util.InputMismatchException". I have added the library files in the preferences, and don't change the source code (even deleting and re-extracting the zip file), but still doesn't work. What am I doing wrong? Thanks before!
+0
+0
+3
+55b788b7b30d846a860021e2
+m1c
+Scholarships
+I feel the presence of abstraction, when an awardee of a scholarship does not really care about the source of the funds.. the only thing the awardee worries about is to maintain a certain CGPa, then hands akimbo and wait for the annual stipend.. #Can you relate?? We don't really care about where the funds come from.
+0
+0
+0
+55b7612cb30d84e33a001689
+m3c
+lab3 object declaration [task 3]
+In lectures it's been told that objects are initiated using constructor so why is it that in "lab3 graded task3" the third ColorImage object is asked to be created by using the add() method of the ColorImage class and not by constructor.
+0
+0
+11
+55b6496ab30d848f10002387
+m4a
+Lab 4 graded task 3
+What should I do in this situation?(  > Number of Test Case Groups Passed: 0/2 > Incorrect. The return values are not in the valid range which is from 0 to 2. > Incorrect. The randomness of return values cannot be tested when they are not in the valid range.
+0
+0
+4
+55b6495cb30d8444570021bb
+m2a
+View a Library
+I need to view all the classes includes into comp102x's library, but i don't know to do in BlueJ enviroment. Anyone can to explain how to see all classes in a library? I need to input two integers values, but the unique function that i know is IO.inputDouble()
+0
+0
+2
+55b5dfa1a9a36eb1420020ea
+m3a
+Module 03 Graded Problem Task 3A
+I really don't know how to convert the current rotation angle from degrees to radians.. can anyone help me with this?
+0
+0
+7
+55b5d987b30d84ede700185b
+m3c
+car2 example
+IN THE EXAMPLE CAR2 PROVIDED ON THE WEBSITE THERE IS COMING AN ERROR >CANNOT FIND SYMBOL-VARIABLE DISTX ALSO THE PROGRAM PROVIDED BY THE LINK IS QUITE DIFFERENT THAN WHAT IS TAUGHT ON THE VIDEO.
+0
+0
+2
+55b5c308a9a36e315a001ff8
+m3c
+colorimage class
+1.In the project of ColorImageDemo a have 2 doubts:- As per my understandings Canvas and ColorImage are 2 classes but they are not shown in the project ColorImageDemo. And also the two instance variables(i.e canvas and image1) declared in the class ColorImageDemo are these the object of the class Canvas and ColorImage. 2.If the above point is true i.e Canvas and ColorImage are 2 classes with canvas and image1 as their objects resp.then how could we send image1 which is object of class ColorImage as a parameter to method "canvas.add(image1,xPos,yPos)" which is of different class . Hope that i have made my point clear.
+0
+0
+3
+55b48444b30d84ae21001f34
+m4a
+Error message meaning  [ java.lang.IllegalArgumentException ]
+What does this mean? "Failed because exception (java.lang.IllegalArgumentException) is encountered. Your code might not instantiate object properly." What should I do in such a case error?
+0
+0
+1
+55b47c87b30d845692001f7a
+m2c
+IO class
+in assignment, we need to enter our code in specific dialogue. But when you enter the code consisting of IO.outputIn, it shows error. How can I fix that?
+0
+0
+1
+55b337c9b30d848f100021dc
+m3a
+LAB 3
+What is the syntax for using getWidth() and getHeight() methods??????From Class CanvasObject
+0
+0
+4
+55b26a6da9a36ed582001f37
+m3c
+String Print
+In the string output example in the video, im getting an error saying "; expected" See the screenshot attached. Please help and explain.  Please help as I'm not being able to upload the image
+0
+0
+3
+55b1e32da9a36e7e59001f0b
+m4a
+Lab 04 Grade Task 2
+I have completed all three tasks and my code works perfectly. I can play the game without any problems. Tasks 1 and 3 were graded as correct. However the grader is giving me a score of 0 and returning the following message for Task 2: "Failed because exception (java.lang.IllegalArgumentException) is encountered. Your code might not instantiate object properly." My method works perfectly using the unit test method. I even added additional tests. As far as I am concerned I have carried out all instantiations. The code also compiles without error in BlueJ. I don't want to paste my code here but some guidance on how to sort this out would be appreciated.
+1
+0
+16
+55b1b77cb30d847700001ee0
+m4a
+branching statement
+but this is going incorrect..please tell me whats going wrong here.
+0
+0
+2
+55b0c11fa9a36e1d46001e12
+m4a
+Lab04 Task3
+> choice = new .......Edited by TAC [PLS aoid to write whole code] HONOR CODE and the result is...   > Number of Test Case Groups Passed: 1/2 > Correct. The return values are in the valid range which is from 0 to 2. > Incorrect. It is not possible to get 0, 1, and 2 as the return values in the 900 times of method call. > The summary of choices made by Computer class:    I really don´t know how to do it any other way. Can someone help and maybe give me a hint on what to do :)
+0
+0
+1
+55b0b1dfb30d84a7e5001c5c
+m2a
+Lab02 Graded Task 3
+> Number of Test Case Groups Passed: 0/2 >  The format of solution output lines is incorrect.  > Your output value might mix up other text. > The solutions might be shown on the same line. > The solutions cannot be found without proper format.
+0
+0
+8
+55b09208b30d8454c7001d39
+m4a
+Why (0.1*0.1==0.001) is false ?
+What is meant by "floating point numbers are not stored precisely in computer." ??
+0
+0
+2
+55b01577a9a36e362d001e51
+m2a
+What That means
+The testing purpose of this test case is overlapping with a previous test case. Oops! You have not explored all 5 test cases.
+0
+0
+1
+55afee78a9a36edf34001e07
+m2a
+Quadratic equation issue
+I set all variable to double (a, b, c, and x) because the default data type for Math.sqrt is also double. When I execute the following code: x = (-b + Math.sqrt( (b   a   a) ); the value of x comes out as NaN. Am I interpreting the formula incorrectly?
+0
+0
+10
+55afdd4ba9a36e362d001e24
+m3c
+Week3Quiz
+I believe an error of parameters undefined or not specified would occur. Since there is contradiction in the mathematical operations of the script, confusing the compiler. Even though a double will accept an int as one of the parameters, the compiler will go through the first bloc. q3 may produce a 20 accepting the first bloc, but q4 will produce an error as it will not recognize and int as a double.
+1
+0
+0
+55afa13ba9a36e1b22001e50
+m2c
+Identifier
+I want to know whether we can begin the name of the identifier starting with an underscore(_). As per my knowledge with the C and C++ language, this can't be done. But in the assessment part, they have considered it right.
+0
+0
+2
+55af73eca9a36e88ff001d73
+m2c
+Module 2 Graded problem task 1
+Please help me to understand what I have to do in this task. Re read the question many times now but I do not know from where to begin. Thank you for your help
+0
+0
+2
+55af57a9b30d846850001e85
+m3c
+private constructor?
+Difference between private && public constructor?
+0
+0
+2
+55af5773a9a36e362d001dca
+m3c
+BankAccount
+In the video we have declared BankAccount testAccount.  Can we use this test account to fill details without using any constructor?  Like after declaration can we use testAccount.deposit(any_number)??
+1
+0
+1
+55aed8fbb30d84bdd2001d5e
+m2c
+lab 2 keep getting an error message
+Hi I can't figure out what I am doing wrong in lab 02. Below is how my code looks so far. It works fine if i use the Scanner library but the grader won't accept it.      > public static void multiply() > // Please write your code after this line
+0
+0
+13
+55ae931da9a36e1b22001db7
+m5a
+While loop for [ [ERROR] class, interface, or enum expected. ... unpair curly brace ]
+My code works in BlueJ and even returns a 1 when there is a negative power. We do I keep getting it incorrect???
+0
+0
+9
+55add96ea9a36e7e59001ca5
+m2a
+DISCUSSION ON DEBUGGING
+> Line number 2: "Class" should be spelled as "class". > Line number 6: Must be in double quote instead of single and the statement should end with semi-colon instead of comma. > Line number 8: The variable used is different from line 6. > Line number 10: Variable "Celsius" is incorrectly defined as in line 8. > Line number 12: Variable "fahranheit" is incorrectly defined as in line 8 and the statement must end with a semi-colon.
+0
+0
+0
+55adc1b7a9a36e1b22001d3f
+m1c
+abstraction ex
+Most abstraction today is in regards to technology we use everyday like our phones, self-service ticket stations or (for most people) computers.
+0
+0
+0
+55adb884a9a36edd16001c48
+m2a
+Lab 2 Task 1
+I don't seem to be understanding the directions maybe? I open Lab 2 in BlueJ and I have the correct screen open to put in the first math problem. I typed this in as instructions basically told me to:    Can anyone tell me what's wrong with this problem? I'm not understanding these math equations very well. Thanks so much.
+0
+0
+1
+55ad64fba9a36ed582001c77
+m4a
+Javadoc [ Random.class ]
+It sounds stupid but I do not have the slightest idea how I should use the functions in javadoc for returning random ints. I would like to use the ints function but don't know how to call it... What irritates me is the idea of creating a random object first by coding: Random randomObject = new Random(); I identified the right function to get the range from -1 to 1 but I do not know how to apply it to the random object. Or do I have to apply it to a random object? I just don"t see how to use Javadoc here and woulc like to be more specific but I can't without giving information on which functions to use...
+0
+0
+2
+55ad2195b30d849956001c73
+m3a
+using add method of ColorImage class
+The third ColorImage object is then be created by using the add() method of the ColorImage class. please sir can u assist me how to create any object using any method of that class?
+0
+0
+1
+55ace8c9b30d84c9b8001cd5
+m2c
+DISCUSSION ON DEBUGGING Module 2
+Description of bug:Variable not declared Suggested fix:Use celsius instead of Celsius   Description of bug: symantic Suggested fix:semicolon in the end of the statement
+0
+0
+0
+55acd618a9a36ee25a001bc5
+m2c
+type conversions & typecasting
+I didn't understand type conversion and typecasting.  Can someone explain me with examples and their usage in programming?
+0
+0
+3
+55aca17fa9a36e7006001cd5
+m2a
+I deleted Lab02 project and can't reopen it. HELP!!!!
+Hello, everyone. I run into silly situation. Somehow I messed up code in mold provided in Lab02 file quite bad and decided to delete it. I thought - well, I'll just resave it from class and open brand new and fresh. The problem - now BlueJ doesn't let me reopen lately saved Lab02 file. It gives me respond like this: The output directory for the archive being extracted already exists. You must remove the existing directory before you can extract the archive.  What should I remove and from where????? Is it even possible to get new mold Lab02 after deleting it once? Or I'm completely doomed and can stop struggling with this class? :)
+0
+0
+2
+55ac9422b30d840995001c3b
+m2a
+problem with submitting week 2 activity 1
+Hello everyone, I am unable to submit my activity in the Module 02 Debugging section. In this activity where I had to spot the bug and report them, I am finding difficulty in identifying the text boxes to write my answers. Please someone help me out on this.
+0
+0
+1
+55ac1899b30d847c6f001b69
+m4a
+Lab 04 Task3
+I really don´t understand what is meant with instruction no 1. It says "Select from 0, 1 or 2 randomly to imitate the computer making a random choice between rock, paper and scissors." This is what a wrote in the method makeChoice()        Number of Test Case Groups Passed: 1/2 Correct. The return values are in the valid range which is from 0 to 2. Incorrect. It is not possible to get 0, 1, and 2 as the return values in the 900 times of method call. > The summary of choices made by Computer class:   > Computer makes choice 2 for 0 times. WHAT IS IT I´M MISSING?!
+0
+0
+1
+55abfeaca9a36eb142001bf5
+m2a
+Wrong correction
+I would like to know if it's possible to correct an error that happened in the Module 02, Expresion. Where is wrote "error" instead of error.
+0
+0
+2
+55abf9bcb30d840f2c001ce0
+m1c
+Yep! A well defined problem
+Every problem is a well defined. In my view ,anyone who is defining a problem with a constraints such as fastest route,cheapest way etc then what's the need for us to solve it if he's going to define in a lucid manner.It's our way of perception,taking the problem in a definite manner.
+0
+0
+1
+55abba1cb30d846850001c94
+m3a
+Problem
+its having a compilation error.please help.
+0
+0
+3
+55ab529eb30d84a7e500198f
+m3a
+Lab 3
+I have no idea on where to start and what to do for the first 3 steps. Help!    1. Your Java code should first create a ColorImage object by using the default constructor of the ColorImage class. 2. A Canvas object is then created by calling the Canvas constructor with arguments. The first and second arguments of the constructor are the width and the height of the ColorImage. You can obtain the width and height of a ColorImage by using the getWidth() and getHeight() methods in the ColorImage class. 3.Lastly, display the ColorImage object on the Canvas Object by using the add() method of the Canvas class. The ColorImage object is placed at the top left hand corner of the Canvas Object.
+0
+0
+4
+55ab4a70b30d843c41001bda
+m2c
+IO.outputln
+when i try to use IO.outputln("hello"); or io.outputln("hello"); it says:cannot find symbol - variable IO when i look into i cannot find io.output or io.outputln only io.OutputStream and io.OutputStreamWriter so, what am i doing wrong ?
+0
+0
+2
+55ab4671b30d848ec4001bd8
+m2c
+Module 02 Math is easy pow() function
+I am having issues compiling the code for the quadratic formula.. when I use the pow() function I get an error message "cannot find symbol - method pow(double,double)" Here is the code I used as a test which creates the error.  I have even included the java.lang.math library but still same error. Any help gratefully accepted.
+0
+0
+1
+55ab3a1fa9a36e88ff001b2a
+m3a
+Conversion
+.....Edited by TAC [pls avoid to write full code]
+0
+0
+2
+55a9d889a9a36ed582001ad2
+m2a
+Lab 02 Graded Task 01
+Need hellp. I tried:               the thing is when i try to submit this on the lab is not working. Has someone done this problem yet?
+0
+0
+3
+55a9976ea9a36ed582001aba
+m2c
+how to ....
+i downloaded the module 2 zip file. but i dont know how to how to open it in bluej. do i simply unzip the file in a folder and open it thru bluej?
+0
+0
+1
+55a9389ea9a36edd16001a24
+m3a
+Lab03 task 1
+What did I do wrong for this seciton
+0
+0
+3
+55a8d480b30d84c9b8001b01
+m2a
+The triangle area
+My solution for these exercise is this:      And the anwer is: Number of Test Case Groups Passed: 0/0 So, my solution is incorrect and I can not see the correct answer.
+0
+0
+1
+55a89e21a9a36e7e590019fb
+m2c
+please help me i'm confused with this problem
+![i can't actually realize what's wrong with my little Barcode Generator here if anybody has any idea please share with me and i will be grateful thanks :') ][1]
+0
+0
+2
+55a802c4b30d847d270019fa
+m3a
+Car2
+So I finished Task 3A and am working on 3B right now. I am confused on how to calculate the distance to move in the x and y directions. Would it start like this? double distX = distX *
+1
+0
+7
+55a7ef32b30d8495f10018b4
+m2a
+Do not agree with the result.
+In Module 02 Graded Problem Task 3, the result of 3 + 6/7 * 4.0 in any c- compiler will be 3 if it is assigned to an integer variable or 3.0 if assigned to a float value. Also, if I run this expression in BlueJ, I have to declare the result variable as double to make the compiler happy else assigning the result to int or float generates error.   I think this particular graded-problem has some shady side to it and should accept 3 or 3.0 as a result since variable promotions specific to Java has not yet been covered by course. The main idea of this exercise is to make students aware of the concept of operator precedence and not variable promotions which differ in meaning from student to student based on their background.
+0
+0
+1
+55a7a596b30d84ede7001066
+m4c
+Bouncing Ball Module 04 Optional
+Anyone else have trouble accessing anything by right-clicking on the Bouncing Ball Class. Mine is marked (no source). And the arrows are correct and my code compiles.
+0
+0
+1
+55a773aba9a36e86bc00192b
+m2a
+Wrong Exercises Answers
+How would I know that I had to do the INTEGER division? For me 15/6 equals 2.5 not 2 .. To do that comand They would have to put " \ " <- That Sign O.o          I lost 2/3 of my grading points in "MODULE 02 GRADED PROBLEM TASK 3" because of this  king problems! PLEASE CONTACT THEN SO THEY"LL FIX THIS PROBLEMS ! THANK YOU FOR YOUR ATTENTION , HAVE A GOOD DAY !
+0
+0
+4
+55a6e031a9a36e2f6d00192e
+m4a
+Lab 04 Task2
+Very confused about this task. [Staff edited: please avoid posting your entire code here. :)] This is what I have for step 2 and 3. Not sure if it's right, but I am not sure how I should set up the Canvas with setX(), setY() and setRotation() by using the ColorImage method. I always get a system error saying - variable Canvas is already defined. It'd be great if someone could help answer this question!
+0
+0
+4
+55a682d9b30d848ec4001931
+m1c
+My opinion
+I don't think it is a well defined problem, because the objective is not clear stated, the concept "the best way to get to somewhere" may differe based on the needs of who wants to get there, More constraints are necessary to determine what is meant with "the best way to get somewhere"
+0
+0
+0
+55a66f2cb30d8468500019a5
+m3c
+ColorImage Example
+1) How is it that we are able to run anything without explicitly typing "public static void main(String[] args)"? 2) I tried this program with images from my desktop, but only got a black-and-white version of the picture. Anyone know why this could be? It worked just fine with the helix, and I even tried changing the extensions on my own images to .png.
+0
+0
+9
+55a6500ca9a36ed5820018a6
+m1c
+blueJ
+I tried to program the second assignment in blueJ, but it won't give the Terminal representation. Is there anyone who is having the same problem?
+0
+0
+1
+55a63a43a9a36e5e210018ed
+m2c
+what methods are in comp102.IO
+I want to practice a litle with the barcodedemo program, and make some variations. How can I know what methods I can use from the comp102.IO class, or other classes in the comp102?
+0
+0
+2
+55a6298db30d8454c700179d
+m1c
+ABSTRACTION
+astraction is Just Hiding the complex things behind a particular Procedure to make the procedure look simple. Example:Monitor ON/OFF::--The user doesn't need to know much about all the chips functioning that happens when Monitor is switched ON or OFF..All he needs to know is On Function ON-Monitor is On and on function OFF-Monitor is off...
+2
+0
+0
+55a5b1b0a9a36e86bc0017f1
+m2a
+Module 02 Graded Problem Task 1
+What values are they looking for? I inputted random values for all 5 test cases and it only accepted the first value.
+2
+0
+20
+55a5810ba9a36eea62001844
+m2c
+DISCUSSION ON DEBUGGING
+First line of code in main contains 2 errors. 'IO-output' is not valid statement. If you want to print something to the console you should use System.out.println(). The statement should be ended with a semicolon, not a comma.
+0
+0
+1
+55a4480db30d84c9b80017de
+m2a
+Quadratic
+Anyone had problems with quadratic math section?
+0
+0
+3
+55a40a23b30d847c6f001690
+m2a
+Lab02 Multiplication
+I can't figure out how to make it ask for user input. I don't understand any of it.
+1
+0
+21
+55a3d4e1a9a36e4e4e001664
+m2a
+Error detection
+error [1] : line 2: class spelled with a capital C instead of lower case fix: class InputDemo error [2] : line 4: misplaced brackets after String           error [7] : line [12] : spelling of fahrenheit is different error [8] : line [12] : no semi colon encountered at the end of the statement
+0
+0
+2
+55a3a3f3b30d846850001777
+m2c
+importing COMP102x.io
+Hi,i'd like to know how can i import COMP102x.io which is included in course grade example to be added in other projects so i can use IO.output and IO.input.
+0
+0
+2
+55a35319a9a36e729100173b
+m1a
+My answers are not graded?
+Can someone help me to know the reason why my answers are not being graded?
+0
+0
+1
+55a326d4b30d84b96a001591
+m3a
+Problem in Graded task Need Help !!!
+I am having a problem with Lab 03 Graded Task 1. I have used all of my submissions as u can see i just need help on this one.This is my code // Please write your code after this line [Staff edited: Please avoid posting your entire code here. :)] I am having a problem with the dimension. When the image is displayed on the canvas it is not on the top left corner. Can u help me fixing this please. They are saying that dimension of canvas is in incorrect.    It is correct that only one Canvas object is created. It is correct that the object on the Canvas object is a ColorImage. It is correct that the instance of ColorImage is created by the default constructor. The dimension of Canvas is incorrect. It should follows the dimension of image being shown. You have used 5 of 5 submissions
+0
+0
+2
+55a323bfb30d849ac80015c7
+m2a
+Triangle
+> // Please write your code after this line > [Staff edited: Please avoid posting the entire code here. :)]    [ERROR] cannot find symbol, symbol: variable height, location: class CalculatorEx02Tester. please give me the solution to this problem!!urgently!
+0
+0
+5
+55a2dea7b30d84ae210015ab
+m1c
+Java does not remove older strings
+After I type a code for printing a string like "Hello, world!" it appears when running the program, but after changing "Hello, world!" with any other string the program prints :    Can I know the problem and what is the solution? thanks
+0
+0
+2
+55a2bce4b30d84a7e500149e
+m3a
+Car2Task1
+The declaration of the method and the variable rotationInDegrees are already given. You only need to declare the double variable rotationInRadians and assign an appropriate value to it in the LAB 03 GRADED TASK 1 textbox below. public void moveForward(int dist) {  // Please write your code after this line After posting my code testing separately, I get this:    The submitted code might use a variable before it is declared or there may be a typo mistake on the variable name. You may check spelling and letter cases of the identifiers. There might be some other reasons for the compilation error(s). I don't want to post any code but I am doing exactly as requested: x × π / (double)180° First I tried Math.PI, then 3.14. Same error.
+0
+0
+2
+55a2ba96b30d84ede7000ccc
+m3a
+ChangeImage
+I am having problems to complete Lab 03 even though I haven't even started yet. In order to do so, I would need the code for the color image class. I can only find it in the video lectures, and it is such a bummer to go through the video and write down the code. Is there any way for me to get this in a file? Thank you so much for your help and all the best,
+0
+0
+2
+55a293d6a9a36e5e21001657
+m1a
+Not a well defined problem
+This is not a well defined problem. I suggest so because the term best way is dependent on airlines and different travelers. The best way to travel for KLM is not the best way to travel for Emirates. Some passengers love direct non stop flights some other passengers love multiple stops. The fact that there are so many different combinations that can all be defined as the "best way" depending on the airline/individual means it is not a well defined problem. 3 + 2 is a well defined problem because it holds under any circumstance or time of the day unlike traveling from Hong Kong to London.
+0
+0
+0
+55a27131a9a36e1d46001604
+m2a
+import java.util.Scanner
+In Lab02, I wanted to import the library "import java.util.Scanner" but didn't allow me. The library "import comp102x.IO;" is already imported by default, but this doesn't contain the scanner method I wanted to use for my solution. All my 5 attempts have gone for the first task, although I compiled the same solution on BlueJ with "import java.util.Scanner;" and it worked fine. Please suggest a solution. P.S. You can have a look at my solution.
+1
+0
+5
+55a23a16b30d8468500016bb
+m2c
+In Module 2 why use lab I/o?
+Hi for module 2 I don't understand why we would have to use the I/Ofor the lab and I/O specific to this course. Usually in Java one can import a Scanner instead of this other code that is presented. Why could we have not used the Scanner? Wouldn't that be much more valuable?
+0
+0
+1
+55a22047a9a36e5e21001629
+m2a
+Compilation Error
+When i tried to execute my program it showed the following error cannot find symbol-method print() Can someone help me in solving this??
+0
+0
+3
+55a20fa7a9a36edf340015c5
+m1c
+Data Abstraction
+An Example of Abstraction: Any Automated Machine in which we should only consider its functionality and not the way in which the mechanical parts(eg: bearings,levers etc.) are working to carry out the particular function
+0
+0
+0
+55a18a1db30d8409950015c2
+m2a
+I'm so confused with I/O
+I think I don't understant how to ask Java to prompt the user for a number with his keyboard :-/ I understood we used "IO.inputDouble( )" in the CourseGrade program …But neither IO.inputDouble( ) nor IO.output work when I try to use them in my homework. For instance, in Module 2 "Lab02 Math is easy", we are asked to ask the user to input the value of x but even when I reproduce the "IO.inputDouble( )" in BlueJ, it doesn't work, while it works for the CourseGrade program I guess "import comp102x.IO" at the beggining of the class is important... but in the Lab exercise, we are just expressly asked to complete only the body of the method so I don't know if I can use "import comp102x.IO" And I don't understant what does "import comp102x.IO" mean anyway :-/ I am so confused. Please, give me a hand Thank you in advance for your help. Enjoy your week end.
+1
+0
+6
+55a0c036b30d84a7e50013d8
+m1a
+Lab exercises
+Hai my question is about the "Check" button which we are using in the lab exercises for the no.of attempts. What if my output is correct in the first attempt itself, if I press the check button will it be submitted for grading. Because it doesn't say anywhere that by clicking the "Check" we are submitting our answers. That's the reason I am clicking on "Check" until I get the "Final Check" button. As you have said in the beginning the "Check" button is creating an ambiguity that whether we are only checking whether the output is correct or else is our answer is submitted for grading. I would like to suggest you is if possible in future please add another button beside the Check and Save buttons as "Submit". So that people will understand and also will be confident that immediately if their answer is correct they have submitted it for grading. Because apart from learning a new language people are also concerned about their grades right?
+0
+0
+1
+55a0aea6a9a36ee25a0014f7
+m1c
+first java program
+I have downloaded BlueJ and also the demo program for Hello World from resources. I have also unzipped the Hello files and there are five files like Helloworld.clas . Which file to use when you open a new project in BlueJ for Hello world demonstration? I am pretty new to this and this is my first course.
+0
+0
+1
+55a077bda9a36ee6f2001479
+m2c
+initialization problem
+How to initialize any variable in Java
+0
+0
+3
+559fda21b30d8499560014db
+m2a
+[ loading comp102x's library BJ & Eclipse ] Debugging
+While compiling the following code in Bluej environment:
+1
+0
+41
+559f5957a9a36e5a76001493
+m4a
+Lab 04
+Whenever I open the Lab04gradedtask01.java I get the error : "No Java Source files were found in this directory" Some please help me out of this.
+0
+0
+1
+559f213cb30d843e96001413
+m3a
+correction? - Module 03 Practice Problems
+Module 03 Practice Problems > CLASSES AND OBJECTS > The first option sentence says: "A class can only has either fields or methods but not both." I believe they meant to say "A class can only  have  either fields or methods but not both."
+0
+0
+3
+559ef87ba9a36e66e800145b
+m1a
+module 01 graded problem
+my code runs well on blue j, without any error report, but if i run it on GRADER, it will show incorrect have tried following the steps, but its still displaying 'incorrect'
+0
+0
+3
+559e929ea9a36edd160013a1
+m1c
+Data Abstraction
+The vehicles, ATM machine used for transferring money are the example of data abstraction as in ATM we only care about the money transfer not about how that transfer is to be done.This is what data abstraction is all about, in it our concern is what is to be done and how it is done is not our point of concern.
+0
+0
+1
+559e7ed2a9a36e52940014ae
+m1c
+square apple problem.
+Hey! i would like to know in which lecture the square apple problem was coded. thanks!
+0
+0
+2
+559e7750b30d8499560013ef
+m1a
+IMPORTANCE OF PROBLEM REPRESENTATION
+IMPORTANCE OF PROBLEM REPRESENTATION I am not understanding this point fully. "The example of the green and red apples shows the importance of finding the right representation before solving a problem. This could save a lot of time and effort." The problem is that I am not really seeing how changing the color of the apples helps to get to the solution faster. Can you elaborate on how this is works?
+0
+0
+4
+559de700a9a36e362d001376
+m1c
+Problem
+public static void main(String[] args)
+0
+0
+4
+559d9809b30d84ede70009c6
+m1c
+Abstraction
+A great example is the use of a tv remote
+0
+0
+0
+559d8a39b30d84000200131b
+m2c
+Question about Square Apple N program
+In the Square Apple N program introduced in Module 02, I am confused on the numbering scheme of the grid. The program asks the user to enter a row number (1 to 3) and a column number (1 to 3). Yet the coordinates of the output of points starts at 0, not 1. Why is there a 0 ? If the size of the grid is 3, I assume this means 3 x 3. Are the rows labeled Row 1, Row 2, Row 3, OR Row 0, Row 1, Row 2? Same question for columns. I would expect the program to ask the user to enter a row number from 0 to 2 (not 1 to 3) so that the output coordinates correspond accordingly. I appreciate any clarification.
+0
+0
+15
+559d70c2b30d8456920012e5
+m2a
+Regarding multiplication
+In Module 2 Lab 02, we are asked to write a program that takes two numbers as inputs from users and print the output. But we are not taught how to take input from the user !!!. So, what should I do?
+0
+0
+4
+559d5c84a9a36e3ee100138f
+m2a
+Modulus Division
+I kept getting -49.25. The operation I used was straight left to right.  Edited by TA. Please do not write the answers for graded questions as it violates the honor code.  I thought I understood modulus as only showing the remainder. I guess I'm not quite sure what modulus does other than show the remainder unlike regular division in Java that truncates the number.
+0
+0
+2
+559d5054b30d8495f100126e
+m1a
+MODULE 1 GRADED PROBLEM TASK 2
+i thought that he meant the corner of the middle square in the cube...so i answered wrong
+0
+0
+0
+559d36cfb30d843537001269
+m2c
+outputBarcode() method - Week 2
+Like the title says, what does     I deleted it and it works perfectly fine...
+0
+0
+1
+559d25b0b30d840f2c0013b4
+m1c
+Data flow and control flow diagram
+Hi, I am Ahmed from Alexandria, Egypt , I am a student at the faculty of engineering. I cannot understand the data flow and control flow diagrams in "Hardware"
+0
+0
+6
+559d070db30d84e33a000782
+m1c
+HongKong to London
+This is not a well defined problem holistically in the sense that, multiple London(s) and HongKong(s) exist around the world. Yes the Origin and destination is defined/known but other variables are not. Variables such as: Weather, which of the HongKong(s) and London(s).
+0
+0
+0
+559cdf53a9a36e66e80012cf
+m1c
+HONG KONG TO LONDON
+I DON'T BELIEVE THAT THE PROBLEM OF FINDING THE FASTEST ROUTE FROM HONG KONG TO LONDON IS A WELL DEFINED PROBLEM, BECAUSE OF THE EXAMPLES THAT WHERE GIVEN IN THE INTRODUCTION LESSON. THERE MAY BE MANY COUNTRIES THAT HAVE CITIES NAMED HONG KONG OR LONDON. I THINK THAT ADDITIONAL INFORMATION SUCH AS COUNTRY, STATE, OR PROVIDENCE IS NEED TO COME TO A CONCLUSION.
+0
+0
+2
+559bd0aaa9a36e4353001178
+m1c
+Traffic Signals
+Right from basic countdown system to sensor system used in traffic signals is the best example of abstraction.
+0
+0
+1
