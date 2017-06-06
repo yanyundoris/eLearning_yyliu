@@ -13,9 +13,9 @@ from sklearn.decomposition import NMF, LatentDirichletAllocation
 from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer, TfidfVectorizer
 import numpy as np
 from pandas import DataFrame as df
+import pandas as pd
 import nltk
 import re
-import pandas as pd
 import os
 ```
 
